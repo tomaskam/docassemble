@@ -16,7 +16,7 @@
   "?": "?"
   "A QR code": "QR kodas"
   "A chat message has arrived.": "Gavote pokalbio žinutę."
-  "A confirmation email has been sent to %(email)s with instructions to complete your registration.": "Patvirtinimo laiškas su instrukcijomis, kaip užbaigti jūsų registraciją, buvo išsiųstas %(email)." 
+  "A confirmation email has been sent to %(email)s with instructions to complete your registration.": "Patvirtinimo el. laiškas su instrukcijomis, kaip užbaigti jūsų registraciją, buvo išsiųstas %(email)." 
   "A new docassemble system version is available.  If you are using Docker, install a new Docker image.": "Yra prieinama nauja docassemble sistemos versija. Jeigu naudojate Docker, įdiekite naują Docker vaizdą."
   "A reset password email has been sent to '%(email)s'. Open that email and follow the instructions to reset your password.": "Slaptažodžio atkūrimo el. laiškas buvo išsiųstas %(email). Atidaryk šį el. laišką ir sek slaptažodžio atkūrimo instrukcijas."
   "A user with that e-mail has already registered": "Naudotojas su šiuo el. pašto adresu jau registruotas."
@@ -30,7 +30,7 @@
   "Active": "Aktyvuoti"
   "Active File": "Aktyvuoti failą"
   "Add": "Pridėti"
-  "Add Email": "Prideti el. pašto adresą"
+  "Add Email": "Prideti el. laišką"
   "Add Privilege": "Prideti privilegiją"
   "Add User": "Prideti naudotoją"
   "Add an item": "Prideti elementą"
@@ -125,82 +125,82 @@
   "Download All": "Atsisiųsti visus" 
   "Download all documents as a ZIP file": "Atsisiųsti visus dokumentus ZIP faile" 
   "Download this document as a ZIP file": "Atsisiųsti šį dokumentą ZIP faile" 
-  "E-mail": "El. paštas"
+  "E-mail": "El. laiškas"
   "E-mail address": "El. pašto adresas"
   "E-mail address is required": "Reikalingas el. pašto adresas"
-  "E-mail is required": "Reikalingas el. paštas"
+  "E-mail is required": "Reikalingas el. laiškas"
   "E-mail these documents": "Siųsti šiuos dokumentus el. paštu"
   "E-mail this document": "Siųsti šį dokumentą el. paštu"
-  "E-mail was sent to": null
-  "E.g., docassemble.demo:data/questions/questions.yml": null
-  "E.g., es, fr, it": null
-  "ERROR: you cannot insert a table into a .docx document": null
-  "Edit": null
-  "Edit API Key": null
-  "Edit User Profile": null
-  "Edit module files": null
-  "Edit source files": null
-  "Edit text files": null
-  "Email": null
-  "Email address is required": null
-  "Email is required": null
-  "Enter a URL of a GitHub repository containing an extension package.  When you press Pull, the contents of that repository will be copied into the Playground, overwriting any files with the same names.  Or, put in the name of a PyPI package and it will do the same with the package on PyPI.": null
-  "Enter code": null
-  "Enter the name of the new project you want to create.": null
-  "Entering a different interview.  To go back to your previous interview, go to My Interviews on the menu.": null
-  "Entering a different interview.  To go back to your previous interview, log in to see a list of your interviews.": null
-  "Error": null
-  "Error reading JSON file from package.  File did not exist.": null
-  "Error reading JSON file.  Not a valid JSON file.": null
-  "Error reading JSON file.  The JSON file needs to contain a dictionary at the root level.": null
-  "Error: interview not found": null
-  "Error: interview not found and answers could not be decrypted": null
-  "Error: menu item is not a Python dict with keys of url and label": null
-  "Error: menu_items is not a Python list": null
-  "Error: no fields could be found in the file": null
-  "Every Two Weeks": null
-  "Existing module files": null
-  "Existing source files": null
-  "Existing static files": null
-  "Existing template files": null
-  "Exit": null
-  "File Name": null
-  "File Text": null
-  "File could not be converted: ": null
-  "File deleted.": null
-  "File format not understood: ": null
-  "File not deleted.  There was an error.": null
-  "File not found: ": null
-  "File to upload": null
-  "Filter For": null
-  "First Subdivision": null
-  "First name": null
-  "First subdivision": null
+  "E-mail was sent to": "El. laiškas buvo išsiųstas"
+  "E.g., docassemble.demo:data/questions/questions.yml": "Pvz., docassemble.demo:data/questions/questions.yml"
+  "E.g., es, fr, it": "Pvz., es, fr, it"
+  "ERROR: you cannot insert a table into a .docx document": "KLAIDA: jūs negalite įterpti lentelės į .docx dokumentą": 
+  "Edit": "Redaguoti"
+  "Edit API Key": "Redaguoti API raktą"
+  "Edit User Profile": "Redaguoti naudotojo profilį"
+  "Edit module files": "Redaguoti modulio failus"
+  "Edit source files": "Redaguoti pirminius failus"
+  "Edit text files": "Redaguoti tekstinius failus"
+  "Email": "El. laiškas"
+  "Email address is required": "Reikalingas el. pašto adresas"
+  "Email is required": "Reikalingas el. laiškas"
+  "Enter a URL of a GitHub repository containing an extension package.  When you press Pull, the contents of that repository will be copied into the Playground, overwriting any files with the same names.  Or, put in the name of a PyPI package and it will do the same with the package on PyPI.": "Įrašykite GitHub saugyklos, kurioje randasi plėtinio paketas, universalųjį ištekliaus adresą (angl. URL). Kai paspausite Įkelti (angl. Pull), saugyklos turinys bus įkopijuotas į Playground, pakeičiant bet kokius failus tokiais pačiais pavadinimais. Arba, pervadinkite jį PyPI paketo vardu ir jis padarys tą patį su paketu, esančiu PyPI."
+  "Enter code": "Įrašykite kodą"
+  "Enter the name of the new project you want to create.": "Įrašykite norimo sukurti naujo projekto pavadinimą"
+  "Entering a different interview.  To go back to your previous interview, go to My Interviews on the menu.": "Atidaromas kitas interviu. Norėdami grįžti atgal į ankstesnį interviu, meniu paspauskite Mano interviu."
+  "Entering a different interview.  To go back to your previous interview, log in to see a list of your interviews.": "Atidaromas kitas interviu. Norėdami grįžti atgal į ankstesnį interviu, prisijunkite, kad matytumėte savo interviu sąrašą."
+  "Error": "Klaida"
+  "Error reading JSON file from package.  File did not exist.": "Klaida skaitant JSON failą iš paketo. Failas nerastas."
+  "Error reading JSON file.  Not a valid JSON file.": "Klaida skaitant JSON failą. Netinkamas JSON failas."
+  "Error reading JSON file.  The JSON file needs to contain a dictionary at the root level.": "Klaida skaitant JSON failą. JSON failas turi turėti žodyną šakniniame lygyje." 
+  "Error: interview not found": "Klaida: interviu nerastas"
+  "Error: interview not found and answers could not be decrypted": "Klaida: interviu nerastas ir klausimai negali būti iššifruoti"
+  "Error: menu item is not a Python dict with keys of url and label": "Klaida: meniu elementas nėra Phyton žodynas su url ir label raktais" 
+  "Error: menu_items is not a Python list": "Klaida: menu_items nėra Phyton sąrašas"
+  "Error: no fields could be found in the file": "Klaida: faile nerasti jokie laukai"
+  "Every Two Weeks": "Kas antrą savaitę"
+  "Existing module files": "Esami modulio failai"
+  "Existing source files": "Esami pirminiai failai"
+  "Existing static files": "Esami statiniai failai"
+  "Existing template files": "Esami šabloniniai failai"
+  "Exit": "Išeiti"
+  "File Name": "Failo pavadinimas"
+  "File Text": "Failo tekstas"
+  "File could not be converted: ": "Failo nebuvo galima konvertuoti: "
+  "File deleted.": "Failas ištrintas."
+  "File format not understood: ": "Failo formato nebuvo galima atpažinti: "
+  "File not deleted.  There was an error.": "Failas neištrintas. Įvyko klaida."
+  "File not found: ": "Failas nerastas: "
+  "File to upload": "Failas įkėlimui"
+  "Filter For": "Filtruoti pagal"
+  "First Subdivision": "Pirmasis Pasidalijimas"
+  "First name": "Vardas"
+  "First subdivision": "Pirmasis pasidalijimas"
   "Floor": null
-  "Folder": null
-  "Functions": null
-  "Get help through live chat by clicking here.": null
-  "Get package": null
-  "Get template": null
-  "GitHub": null
-  "GitHub Branch": null
-  "GitHub Integration": null
-  "GitHub URL": null
-  "GitHub integration was successfully configured.": null
-  "GitHub integration was successfully disconnected.": null
-  "Go": null
-  "Go back to the main Playground page": null
-  "Go back to the previous question": null
-  "Google Drive": null
-  "Google Drive is not configured": null
-  "Google Drive is not linked.": null
-  "Help": null
-  "Help is available": null
-  "Help is available for this question": null
-  "Help with this question": null
-  "Here is your document.": null
-  "Hide context of example": null
-  "Home Page": null
+  "Folder": "Aplankas"
+  "Functions": "Funkcijos"
+  "Get help through live chat by clicking here.": "Paspauskite čia, jeigu pageidaujate pagalbos pokalbiu internetu."
+  "Get package": "Gauti paketą"
+  "Get template": "Gauti šabloną"
+  "GitHub": "GitHub"
+  "GitHub Branch": "GitHub šaka"
+  "GitHub Integration": "GitHub integracija"
+  "GitHub URL": "GitHub URL"
+  "GitHub integration was successfully configured.": "GitHub integracija buvo sėkmingai sukonfiguruota."
+  "GitHub integration was successfully disconnected.": "GitHub integracija buvo sėkmingai atjungta."
+  "Go": "Eiti"
+  "Go back to the main Playground page": "Eiti atgal į pagrindinį Playground puslapį"
+  "Go back to the previous question": "Eiti į ankstesnį klausimą"
+  "Google Drive": "Google Drive"
+  "Google Drive is not configured": "Google Drive nėra sukonfiguruotas"
+  "Google Drive is not linked.": "Google Drive nėra susietas."
+  "Help": "Pagalba"
+  "Help is available": "Pagalba yra prieinama"
+  "Help is available for this question": "Pagalba šiam klausimui yra prieinama"
+  "Help with this question": "Padėti dėl šio klausimo"
+  "Here is your document.": "Štai jūsų dokumentas."
+  "Hide context of example": "Paslėpti pavyzdžio kontekstą"
+  "Home Page": "Pradžios tinklalapis"
   "How question came to be asked": null
   "How this question came to be asked": null
   "I am sorry.  The code you entered is invalid or expired.  Goodbye.": null
@@ -259,8 +259,8 @@
   "Move down": null
   "Must be a two-letter code": null
   "Must be a valid e-mail address": null
-  "My Interviews": null
-  "My Playground": null
+  "My Interviews": "Mano interviu"
+  "My Playground": "Mano playground"
   "Name": null
   "Name of new branch": null
   "Name of new privilege": null
@@ -327,7 +327,7 @@
   "Phone help is available": null
   "Phone number": null
   "Plain text of sections": null
-  "Playground": null
+  "Playround": null
   "Playground Packages": null
   "Playground YAML": null
   "Playground not saved.  There was an error.": null
@@ -766,23 +766,23 @@
   "published on your GitHub account": null
   "question": null
   "quit": null
-  "she": null
-  "skip": null
-  "something": null
-  "system": null
-  "t": null
-  "them": null
-  "they": null
-  "to proceed.": null
-  "true": null
-  "unavailable": null
-  "user": null
-  "v.": null
-  "was saved at": null
-  "x": null
-  "y": null
-  "year": null
-  "yes": null
-  "you": null
-  "yourself": null
+  "she": "ji"
+  "skip": "praleisti"
+  "something": "kažką"
+  "system": "sistema"
+  "t": "t"
+  "them": "juos"
+  "they": "jie"
+  "to proceed.": "kad tęsti."
+  "true": "tiesa"
+  "unavailable": "neprieinamas"
+  "user": "naudotojas"
+  "v.": "v."
+  "was saved at": "buvo išsaugotas"
+  "x": "x"
+  "y": "y"
+  "year": "metai"
+  "yes": "taip"
+  "you": "jūs"
+  "yourself": "pats"
 
