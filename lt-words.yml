@@ -1,136 +1,136 @@
 "lt":
-  "%(username_or_email)s does not exist": null
-  "(Deleted)": null
-  "(New branch)": null
-  "(New file)": null
-  "(Not a DAFile or DAFileList object)": null
-  "(Not a readable image file)": null
-  "(Unable to display map)": null
-  "(Unable to extract images from PDF file)": null
-  "(embedded question, source code not available)": null
-  ", are attached": null
-  ", is already in use by someone else": null
-  ", is attached": null
-  "-- Do not link --": null
-  ".": null
-  "?": null
-  "A QR code": null
-  "A chat message has arrived.": null
-  "A confirmation email has been sent to %(email)s with instructions to complete your registration.": null
-  "A new docassemble system version is available.  If you are using Docker, install a new Docker image.": null
-  "A reset password email has been sent to '%(email)s'. Open that email and follow the instructions to reset your password.": null
-  "A user with that e-mail has already registered": null
-  "API Keys": null
-  "Access organizational repositories": null
-  "Access shared repositories": null
-  "Account did not exist.": null
-  "Action": null
-  "Actions": null
-  "Activate chat": null
-  "Active": null
-  "Active File": null
-  "Add": null
-  "Add Email": null
-  "Add Privilege": null
-  "Add User": null
-  "Add an item": null
-  "Add another": null
-  "Administrator": null
-  "An e-mail address is required.": null
-  "Anonymous": null
-  "Answer here": null
-  "App": null
-  "Apply": null
-  "Are you sure that you want to delete this file?": null
-  "Are you sure that you want to delete this package?": null
-  "Are you sure that you want to delete this playground file?": null
-  "Are you sure you want to delete all saved interviews?": null
-  "Are you sure you want to delete this item?": null
-  "Are you sure you want to permanently delete this user's account?": null
-  "At least one e-mail address must be listed": null
-  "Attachment": null
-  "Attachments": null
-  "Authentication": null
-  "Authentication failed.": null
-  "Author E-mail": null
-  "Author Name": null
-  "Available": null
-  "Available Interviews": null
-  "Available interviews": null
-  "Back": null
-  "Back to profile": null
-  "Back to question": null
-  "Bad date": null
-  "Block": null
-  "Branch": null
-  "Cancel": null
-  "Case No.": null
-  "Change": null
-  "Change Password": null
-  "Change password": null
-  "Change username": null
-  "Changed name of interview": null
-  "Chat message you want to send": null
-  "Check at least one option, or check “%s”": null
-  "Check box": null
-  "Check if applicable": null
-  "Checkboxes:": null
-  "Choices:": null
-  "Classes": null
-  "Clear": null
-  "Click here to confirm your e-mail": null
-  "Click here to get help over the phone.": null
-  "Click if you want the user to be able to call you.": null
-  "Click to try this interview": null
-  "Commit": null
-  "Commit message": null
-  "Configuration": null
-  "Configuration YAML": null
-  "Configuration not updated.": null
-  "Configuration not updated.  There was a syntax error in the configuration YAML.": null
-  "Configuration not updated.  There was an error.": null
-  "Configure": null
-  "Confirmation Date": null
-  "Connected to Google Drive": null
-  "Connected to OneDrive": null
-  "Continue": null
-  "Control": null
-  "Could not create new key": null
-  "Country Code": null
-  "Country code": null
-  "Create": null
-  "Create Package": null
-  "Created new Markdown file called ": null
-  "Current": null
+  "%(username_or_email)s does not exist": "%(username_or_email) neegzistuoja"
+  "(Deleted)": "(Ištrintas)"
+  "(New branch)": "(Nauja šaka)"
+  "(New file)": "(Naujas failas)"
+  "(Not a DAFile or DAFileList object)": "(Ne DATFile arba DAFileList objektas)"
+  "(Not a readable image file)": "(Neperskaitomas paveikslo failas)"
+  "(Unable to display map)": "(Negalima atvaizduoti žemėlapio)"
+  "(Unable to extract images from PDF file)": "(Negalima išgauti paveikslų iš PDF failo)"
+  "(embedded question, source code not available)": "(įterptas klausimas, išeities kodas neprieinamas)"
+  ", are attached": ", yra pridedami"
+  ", is already in use by someone else": ", yra jau naudojamas kažkieno kito"
+  ", is attached": ", pridedamas"
+  "-- Do not link --": "-- Nesusieti --"
+  ".": "."
+  "?": "?"
+  "A QR code": "QR kodas"
+  "A chat message has arrived.": "Gavote pokalbio žinutę."
+  "A confirmation email has been sent to %(email)s with instructions to complete your registration.": "Patvirtinimo laiškas su instrukcijomis, kaip užbaigti jūsų registraciją, buvo išsiųstas %(email)." 
+  "A new docassemble system version is available.  If you are using Docker, install a new Docker image.": "Yra prieinama nauja docassemble sistemos versija. Jeigu naudojate Docker, įdiekite naują Docker vaizdą."
+  "A reset password email has been sent to '%(email)s'. Open that email and follow the instructions to reset your password.": "Slaptažodžio atkūrimo el. laiškas buvo išsiųstas %(email). Atidaryk šį el. laišką ir sek slaptažodžio atkūrimo instrukcijas."
+  "A user with that e-mail has already registered": "Naudotojas su šiuo el. pašto adresu jau registruotas."
+  "API Keys": "API raktai"
+  "Access organizational repositories": "Prieiti prie organizacinių saugyklų"
+  "Access shared repositories": "Prieiti prie bendrųjų saugyklų"
+  "Account did not exist.": "Paskyra neegzistavo".
+  "Action": "Veiksmas"
+  "Actions": "Veiksmai"
+  "Activate chat": "Aktyvuoti pokalbį"
+  "Active": "Aktyvuoti"
+  "Active File": "Aktyvuoti failą"
+  "Add": "Pridėti"
+  "Add Email": "Prideti el. pašto adresą"
+  "Add Privilege": "Prideti privilegiją"
+  "Add User": "Prideti naudotoją"
+  "Add an item": "Prideti elementą"
+  "Add another": "Prideti kitą"
+  "Administrator": "Administratorius"
+  "An e-mail address is required.": "Reikalingas el. pašto adresas."
+  "Anonymous": "Anonimas"
+  "Answer here": "Atsakyti čia"
+  "App": "Programėlė"
+  "Apply": "Taikyti"
+  "Are you sure that you want to delete this file?": "Ar tikrai norite ištrinti šį failą?"
+  "Are you sure that you want to delete this package?": "Ar tikrai norite ištrinti šį paketą?"
+  "Are you sure that you want to delete this playground file?": "Ar tikrai norite ištrinti šį bandymų erdvės (playground) failą?"
+  "Are you sure you want to delete all saved interviews?": "Ar tikrai norite ištrinti visus išsaugotus interviu?"
+  "Are you sure you want to delete this item?": "Ar tikrai norite ištrinti šį elementą?"
+  "Are you sure you want to permanently delete this user's account?": "Ar tikrai norite negrįžtamai ištrinti šio naudotojo paskyrą?"
+  "At least one e-mail address must be listed": "Bent vienas elektroninis adresas privalo būti nurodytas"
+  "Attachment": "Priedas"
+  "Attachments": "Priedai"
+  "Authentication": "Atpažinimas"
+  "Authentication failed.": "Atpanižimas nepavyko."
+  "Author E-mail": "Autoriaus el. pašto adresas"
+  "Author Name": "Autoriaus vardas"
+  "Available": "Pasiekiamas"
+  "Available Interviews": "Pasiekiami Interviu"
+  "Available interviews": "Pasiekiami interviu"
+  "Back": "Atgal"
+  "Back to profile": "Atgal į profilį"
+  "Back to question": "Atgal į klausimą"
+  "Bad date": "Netinkama data"
+  "Block": "Blokas"
+  "Branch": "Šaka"
+  "Cancel": "Atšaukti"
+  "Case No.": "Bylos Nr."
+  "Change": "Pakeisti"
+  "Change Password": "Pakeisti Slaptažodį"
+  "Change password": "Pakeisti slaptažodį"
+  "Change username": "Pakeisti naudotojo vardą"
+  "Changed name of interview": "Pakeisti interviu pavadinimą"
+  "Chat message you want to send": "Pokalbio žinutė, kurią norite siųsti"
+  "Check at least one option, or check “%s”": "Pažymėkite bent vieną parinktį arba pažymėkite “%s”"
+  "Check box": "Pažymėkite langelį"
+  "Check if applicable": "Pažymėkite, jei taikoma"
+  "Checkboxes:": "Žymimieji langeliai:"
+  "Choices:": "Pasirinkimai:"
+  "Classes": "Klasės"
+  "Clear": "Išvalyti"
+  "Click here to confirm your e-mail": "Paspauskite čia, kad patvirtintumėte savo el. pašto adresą"
+  "Click here to get help over the phone.": "Paspauskite čia, jeigu pageidaujate pagalbos telefonu."
+  "Click if you want the user to be able to call you.": "Paspauskite, jeigu norite, kad vartotojas galėtu jums paskambinti."
+  "Click to try this interview": "Paspauskite norėdami išbandyti šį interviu"
+  "Commit": "Nusiųsti"
+  "Commit message": "Nusiųsti pranešimą"
+  "Configuration": "Konfigūracija"
+  "Configuration YAML": "YAML konfigūracija"
+  "Configuration not updated.": "Konfigūracija neatnaujinta."
+  "Configuration not updated.  There was a syntax error in the configuration YAML.": "Konfigūracija neatnaujinta. YAML konfiguracijoje buvo aptikta sintaksės klaida."
+  "Configuration not updated.  There was an error.": "Konfigūracija neatnaujinta. Buvo aptikta klaida."
+  "Configure": "Konfigūruoti"
+  "Confirmation Date": "Patvirtinimo data"
+  "Connected to Google Drive": "Prisijunta prie Google Drive"
+  "Connected to OneDrive": "Prisijungta prie OneDrive"
+  "Continue": "Tęsti"
+  "Control": "Kontroliuoti"
+  "Could not create new key": "Naujo rakto sukūrimas negalimas" 
+  "Country Code": "Šalies Kodas"
+  "Country code": "Šalies kodas"
+  "Create": "Sukurti"
+  "Create Package": "Sukurti paketą"
+  "Created new Markdown file called ": "Sukurtas naujas Markdown failas pavadinimu "
+  "Current": "Dabartinis"
   "Decorations": null
-  "Defined in": null
-  "Delete": null
-  "Delete Account": null
-  "Delete project": null
-  "Deleted file: ": null
-  "Deleted interview": null
-  "Deleted interviews": null
-  "Deleted package": null
-  "Dependencies": null
-  "Description": null
-  "Developer Access": null
-  "Disable": null
-  "Display the menu": null
-  "Docassemble Office Add-in": null
-  "Docassemble Playground": null
-  "Document": null
-  "Documentation": null
-  "Done": null
-  "Download": null
-  "Download All": null
-  "Download all documents as a ZIP file": null
-  "Download this document as a ZIP file": null
-  "E-mail": null
-  "E-mail address": null
-  "E-mail address is required": null
-  "E-mail is required": null
-  "E-mail these documents": null
-  "E-mail this document": null
+  "Defined in": "Apibrėžtas"
+  "Delete": "Ištrinti"
+  "Delete Account": "Ištrinti paskyrą"
+  "Delete project": "Ištrinti projektą"
+  "Deleted file: ": "Ištrintas failas"
+  "Deleted interview": "Ištrintas interviu"
+  "Deleted interviews": "Ištrinti interviu"
+  "Deleted package": "Ištrintas paketas"
+  "Dependencies": "Priklausomybės"
+  "Description": "Aprašas"
+  "Developer Access": "Programuotojo prieiga"
+  "Disable": "Išjungti"
+  "Display the menu": "Rodyti meniu"
+  "Docassemble Office Add-in": "Docassemble Office plėtinys"
+  "Docassemble Playground": "Docassemble Playground"
+  "Document": "Dokumentas"
+  "Documentation": "Dokumentacija"
+  "Done": "Atlikta"
+  "Download": "Atsisiųsti"
+  "Download All": "Atsisiųsti visus" 
+  "Download all documents as a ZIP file": "Atsisiųsti visus dokumentus ZIP faile" 
+  "Download this document as a ZIP file": "Atsisiųsti šį dokumentą ZIP faile" 
+  "E-mail": "El. paštas"
+  "E-mail address": "El. pašto adresas"
+  "E-mail address is required": "Reikalingas el. pašto adresas"
+  "E-mail is required": "Reikalingas el. paštas"
+  "E-mail these documents": "Siųsti šiuos dokumentus el. paštu"
+  "E-mail this document": "Siųsti šį dokumentą el. paštu"
   "E-mail was sent to": null
   "E.g., docassemble.demo:data/questions/questions.yml": null
   "E.g., es, fr, it": null
