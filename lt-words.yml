@@ -71,7 +71,7 @@
   "Change username": "Pakeisti naudotojo vardą"
   "Changed name of interview": "Pakeisti interviu pavadinimą"
   "Chat message you want to send": "Pokalbio žinutė, kurią norite siųsti"
-  "Check at least one option, or check “%s”": "Pažymėkite bent vieną parinktį arba pažymėkite “%s”"
+  "Check at least one option, or check “%s”": "Pažymėkite bent vieną parinktį arba pažymėkite “%”"
   "Check box": "Pažymėkite langelį"
   "Check if applicable": "Pažymėkite, jei taikoma"
   "Checkboxes:": "Žymimieji langeliai:"
@@ -173,13 +173,13 @@
   "File not found: ": "Failas nerastas: "
   "File to upload": "Failas įkėlimui"
   "Filter For": "Filtruoti pagal"
-  "First Subdivision": "Pirmasis Pasidalijimas"
+  "First Subdivision": "Pirmasis Padalijimas"
   "First name": "Vardas"
-  "First subdivision": "Pirmasis pasidalijimas"
+  "First subdivision": "Pirmasis padalijimas"
   "Floor": null
   "Folder": "Aplankas"
   "Functions": "Funkcijos"
-  "Get help through live chat by clicking here.": "Paspauskite čia, jeigu pageidaujate pagalbos pokalbiu internetu."
+  "Get help through live chat by clicking here.": "Paspauskite čia, jeigu pageidaujate tikralaikio pokalbio pagalbos."
   "Get package": "Gauti paketą"
   "Get template": "Gauti šabloną"
   "GitHub": "GitHub"
@@ -201,214 +201,214 @@
   "Here is your document.": "Štai jūsų dokumentas."
   "Hide context of example": "Paslėpti pavyzdžio kontekstą"
   "Home Page": "Pradžios tinklalapis"
-  "How question came to be asked": null
-  "How this question came to be asked": null
-  "I am sorry.  The code you entered is invalid or expired.  Goodbye.": null
-  "I do not understand what you mean by": null
-  "I don't know": null
-  "Import": null
-  "Import method": null
-  "Incorrect %(username_or_email)s and/or Password": null
-  "Incorrect Email and/or Password": null
-  "Incorrect Password": null
-  "Input box": null
-  "Input not processed because the page expired.  Please try again.": null
-  "Input not processed because the question changed.  Please continue.": null
-  "Insert": null
-  "Install": null
-  "Install package on this server also": null
-  "Interview": null
-  "Interview answers cannot be decrypted": null
-  "Interview files": null
-  "Interviews": null
-  "Invalid E-mail": null
-  "Invalid Email": null
-  "Invalid Email address": null
-  "Invalid confirmation token.": null
-  "Invalid e-mail address": null
-  "Invalid interview": null
-  "Invalid invitation token": null
-  "Invalid phone number.": null
-  "Invitation has been sent.": null
-  "Invitations have been sent.": null
-  "Invite": null
-  "Invite User": null
-  "Invite!": null
-  "JSON file": null
-  "Jinja2 help template": null
-  "Join": null
-  "Language": null
-  "Last name": null
-  "Leave": null
-  "License": null
-  "Links": null
-  "Listen": null
-  "Live chat": null
-  "Live chat is available": null
-  "Loading.  Please wait . . . ": null
-  "Logs": null
-  "Manage account": null
-  "Markdown": null
-  "Menu": null
-  "Menu:": null
-  "Methods": null
-  "Modules": null
-  "Modules available in Playground": null
-  "Modules defined": null
-  "Monitor": null
-  "Move down": null
-  "Must be a two-letter code": null
-  "Must be a valid e-mail address": null
+  "How question came to be asked": "Kaip buvo užduotas klausimas"
+  "How this question came to be asked": "Kaip šis klausimas buvo užduotas"
+  "I am sorry.  The code you entered is invalid or expired.  Goodbye.": "Aš atsiprašau. Kodas, kurį įvedei yra negaliojantis arba jo galiojimas yra pasibaigęs. Viso gero." 
+  "I do not understand what you mean by": "Aš nesuprantu, ką tu turi omenyje"
+  "I don't know": "Aš nežinau"
+  "Import": "Importuoti"
+  "Import method": "Importuoti metodą"
+  "Incorrect %(username_or_email)s and/or Password": "Neteisingas %(username_or_email) ir/ar slaptažodis"
+  "Incorrect Email and/or Password": Neteisingas el. pašto adresas ir/ar slaptažodis"
+  "Incorrect Password": "Neteisingas slaptažodis"
+  "Input box": "Įvesties langelis"
+  "Input not processed because the page expired.  Please try again.": "Įvestis neapdorota nes puslapis nebegalioja. Prašome bandyti dar kartą."
+  "Input not processed because the question changed.  Please continue.": "Įvestis neapdorota nes puslapis pasikeitė. Prašome tęsti."
+  "Insert": "Įterpti"
+  "Install": "Instaliuoti"
+  "Install package on this server also": "Instaliuoti paketą šiame serveryje taip pat"
+  "Interview": "Interviu"
+  "Interview answers cannot be decrypted": "Interviu atsakymai negali būti iššifruoti"
+  "Interview files": "Interviu failai"
+  "Interviews": "Interviu"
+  "Invalid E-mail": "Netinkamas el. pašto adresas"
+  "Invalid Email": "Netinkamas el. pašto adresas"
+  "Invalid Email address": "Netinkamas el. pašto adresas"
+  "Invalid confirmation token.": "Netinkamas patvirtinimo žetonas." 
+  "Invalid e-mail address": "Netinkamas el. pašto adresas"
+  "Invalid interview": "Netinkamas interviu"
+  "Invalid invitation token": "Netinkamas pakvietimo žetonas"
+  "Invalid phone number.": "Netinkamas telefono numeris."
+  "Invitation has been sent.": "Pakvietimas buvo išsiųstas."
+  "Invitations have been sent.": "Pakvietimai buvo išsiųsti."
+  "Invite": "Pakviesti"
+  "Invite User": "Pakviesti naudotoją"
+  "Invite!": "Pakviesti!"
+  "JSON file": "JSON failas"
+  "Jinja2 help template": "Jinja2 pagalbos šablonas"
+  "Join": "Prisijungti"
+  "Language": "Kalba"
+  "Last name": "Pavardė"
+  "Leave": "Išeiti"
+  "License": "Licencija"
+  "Links": "Nuorodos"
+  "Listen": "Klausyti"
+  "Live chat": "Tikralaikis pokalbis"
+  "Live chat is available": "Tikralaikis pokalbis yra prieinamas"
+  "Loading.  Please wait . . . ": "Paleidžiama. Prašome palaukti . . . "
+  "Logs": "Žurnalai"
+  "Manage account": "Tvarkyti paskyrą"
+  "Markdown": "Markdown"
+  "Menu": "Meniu"
+  "Menu:": "Meniu:"
+  "Methods": "Metodai"
+  "Modules": "Moduliai"
+  "Modules available in Playground": "Playground prieinami moduliai"
+  "Modules defined": "Apibrėžti moduliai"
+  "Monitor": "Stebėti"
+  "Move down": "Nuleisti"
+  "Must be a two-letter code": "Privalo būti dviejų raidžių kodas"
+  "Must be a valid e-mail address": "Privalo būti tinkamas el. pašto adresas"
   "My Interviews": "Mano interviu"
   "My Playground": "Mano playground"
-  "Name": null
-  "Name of new branch": null
-  "Name of new privilege": null
-  "Name of new privilege is required": null
-  "New API Key": null
-  "New Name": null
-  "New Password": null
-  "New Password and Retype Password did not match": null
-  "New Password is required": null
-  "New Username": null
-  "New chat connection from": null
-  "New chat message": null
-  "New conversation above": null
-  "New conversation below": null
-  "New message above": null
-  "New message below": null
-  "New project": null
-  "Next will be": null
-  "Nickname": null
-  "No": null
-  "No access code was entered.": null
-  "No administrators could be found.": null
-  "No data existed in training set.  JSON file not created.": null
-  "None of the above": null
-  "Not authorized": null
-  "Note": null
-  "Note that if you connect to a Google Drive folder, you will disable your connection to OneDrive.": null
-  "Note that if you connect to a OneDrive folder, you will disable your connection to Google Drive.": null
-  "Note: it is a best practice to tag every mandatory block with an id.": null
-  "Note: more than one block uses id": null
-  "Note: only users with e-mail/password accounts can be given admin privileges.": null
-  "OCR succeeded": null
-  "Observation": null
-  "Observe": null
-  "Office Add-in": null
-  "Old Password": null
-  "Old Password is incorrect": null
-  "Old Password is required": null
-  "One or more e-mail addresses (separated by newlines)": null
-  "OneDrive": null
-  "OneDrive is not configured": null
-  "OneDrive is not linked.": null
-  "Organization": null
-  "Original Name": null
-  "PDF/DOCX File": null
-  "Package": null
-  "Package Management": null
-  "Package Name": null
-  "Package Name is required": null
-  "Package created": null
-  "Package did not exist": null
-  "Package name": null
-  "Package name is required": null
-  "Package on PyPI": null
-  "Packages": null
-  "Password": null
-  "Password and Retype Password did not match": null
-  "Password is required": null
-  "Password must have at least 6 characters with one lowercase letter, one uppercase letter and one number": null
-  "Per Month": null
-  "Per Week": null
-  "Per Year": null
-  "Phone help": null
-  "Phone help is available": null
-  "Phone number": null
-  "Plain text of sections": null
-  "Playground": null
-  "Playground Packages": null
-  "Playground YAML": null
-  "Playground not saved.  There was an error.": null
-  "Please choose a different e-mail address.": null
-  "Please enter a multiple of {0}.": null
-  "Please enter a valid phone number": null
-  "Please enter a valid value.": null
-  "Please enter a whole number.": null
-  "Please enter the four digit code, followed by the pound sign.": null
-  "Please enter the verification code from the text message we just sent you.": null
-  "Please enter the verification code from your authentication app.": null
-  "Please log in.": null
-  "Please select at least %s.": null
-  "Please select exactly %s.": null
-  "Please select no more than %s.": null
-  "Please select one.": null
-  "Please send a video, or type skip.": null
-  "Please send a video.": null
-  "Please send an audio clip, or type skip.": null
-  "Please send an audio clip.": null
-  "Please send an image or file, or type skip.": null
-  "Please send an image or file.": null
-  "Please send one or more images, or type skip.": null
-  "Please send one or more images.": null
-  "Please upload a file with a valid file format.": null
-  "Possibly not defined": null
-  "Possibly not used": null
-  "Press one of the following buttons:": null
-  "Preview": null
-  "Privilege": null
-  "Privileges": null
-  "Problem detected.": null
-  "Profile": null
-  "Profile Page": null
-  "Project name cannot begin with a number": null
-  "Project name is required": null
-  "Projects": null
-  "Publish": null
-  "Publish on PyPI also": null
-  "Pull": null
-  "Pull GitHub or PyPI Package": null
+  "Name": "Pavadinimas"
+  "Name of new branch": "Naujos šalos pavadinimas"
+  "Name of new privilege": "Naujos privilegijos pavadinimas"
+  "Name of new privilege is required": "Reikalingas naujos privilegijos pavadinimas"
+  "New API Key": "Naujas API raktas"
+  "New Name": "Naujas pavadinimas"
+  "New Password": "Naujas slaptažodis"
+  "New Password and Retype Password did not match": "Naujas slaptažodis ir pakartotinai įrašytas slaptažodis nesutapo"
+  "New Password is required": "Reikalingas naujas slaptažodis"
+  "New Username": "Naujas naudotojo vardas"
+  "New chat connection from": "Naujas pokalbis iš"
+  "New chat message": "Nauja pokalbio žinutė"
+  "New conversation above": "Naujas pokalbis viršuje"
+  "New conversation below": "Naujas pokalbis apačioje"
+  "New message above": "Nauja žinutė viršuje"
+  "New message below": "Nauja žinutę apačioje"
+  "New project": "Naujas projektas"
+  "Next will be": "Kitas bus"
+  "Nickname": "Slapyvardis"
+  "No": "Ne"
+  "No access code was entered.": "Nebuvo įvestas joks prieigos kodas."
+  "No administrators could be found.": "Nerasti jokie administratoriai."
+  "No data existed in training set.  JSON file not created.": "Nebuvo jokių duomenų bandomajame rinkinyje. JSON failas nesukurtas." 
+  "None of the above": "Nei vienas iš aukščiau"
+  "Not authorized": "Neįgaliotas"
+  "Note": "Pastaba"
+  "Note that if you connect to a Google Drive folder, you will disable your connection to OneDrive.": "Atminkite, jog jums prijungus  Google Drive aplanką, jūs atjungsitė prisijungimą prie OneDrive."
+  "Note that if you connect to a OneDrive folder, you will disable your connection to Google Drive.": "Atminkite, jog jums prijungus  OneDrive aplanką, jūs atjungsitė prisijungimą prie Google Drive."
+  "Note: it is a best practice to tag every mandatory block with an id.": "Pastaba: yra gera praktika sužymėti kiekvieną privalomą bloką su id."
+  "Note: more than one block uses id": "Pastaba: daugiau nei vienas blokas naudoja id"
+  "Note: only users with e-mail/password accounts can be given admin privileges.": "Pastaba: tik naudotojams su el. pašto/slaptažodžio paskyromis galima suteikti administratoriaus privilegijas."
+  "OCR succeeded": "OCR pavyko"
+  "Observation": "Stebėjimas"
+  "Observe": "Stebėti"
+  "Office Add-in": "Office plėtinys"
+  "Old Password": "Senas slaptažodis"
+  "Old Password is incorrect": "Senas slaptažodis yra neteisingas"
+  "Old Password is required": "Reikalingas senasis slaptažodis"
+  "One or more e-mail addresses (separated by newlines)": "Vienas arba daugiau el. pašto adresų (atskirose eilutėse)
+  "OneDrive": "OneDrive"
+  "OneDrive is not configured": "OneDrive nesukonfigūruotas"
+  "OneDrive is not linked.": "OneDrive nesusietas"
+  "Organization": "Organizacija"
+  "Original Name": "Originalus pavadinimas"
+  "PDF/DOCX File": "PDF/DOCX failas"
+  "Package": "Paketas"
+  "Package Management": "Paketo tvarkymas"
+  "Package Name": "Paketo pavadinimas"
+  "Package Name is required": "Reikalingas paketo pavadinimas"
+  "Package created": "Paketas sukurtas"
+  "Package did not exist": "Paketas neegzistavo"
+  "Package name": "Paketo pavadinimas"
+  "Package name is required": "Reikalingas paketo pavadinimas"
+  "Package on PyPI": "PyPI esantis paketas"
+  "Packages": "Paketai"
+  "Password": "Slaptažodis"
+  "Password and Retype Password did not match": "Slaptažodis ir pakartotinai įrašytas slaptažodis nesutapo"
+  "Password is required": "Reikalingas slaptažodis"
+  "Password must have at least 6 characters with one lowercase letter, one uppercase letter and one number": "Slaptažodį turi sudaryti bent 6 ženklai, iš kurių viena mažoji raidė, viena didžioji raidė ir vienas skaičius"
+  "Per Month": "per/už menesį"
+  "Per Week": "per/už savaitę"
+  "Per Year": "per/už metus"
+  "Phone help": "Pagalba telefonu"
+  "Phone help is available": "Pagalba telefonu yra prieinama"
+  "Phone number": "Telefono numeris"
+  "Plain text of sections": "Dalių grynasis tekstas"
+  "Playground": "Playground"
+  "Playground Packages": "Playground paketai"
+  "Playground YAML": "Playground YAML"
+  "Playground not saved.  There was an error.": "Playground neišsaugotas. Įvyko klaida."
+  "Please choose a different e-mail address.": "Prašome pasirinkti kitokį el. pašto adresą."
+  "Please enter a multiple of {0}.": "Prašome įvesti kelis {0}." 
+  "Please enter a valid phone number": "Prašome įvesti tinkamą telefono numerį"
+  "Please enter a valid value.": "Prašome įvesti tinkamą reikšmę."
+  "Please enter a whole number.": "Prašome įvesti sveikąjį skaičių."
+  "Please enter the four digit code, followed by the pound sign.": "Prašome įvesti keturių skaitmenų kodą ir paspausti groteles."
+  "Please enter the verification code from the text message we just sent you.": "Prašome įvesti verifikavimo kodą, kuris yra nurodytas  ką tik jums išsiųstoje žinutėje."
+  "Please enter the verification code from your authentication app.": "Prašome įvesti verifikavimo kodą, kuris yra nurodytas atpažinimo programėlėje." 
+  "Please log in.": "Prašome prisijungti."
+  "Please select at least %s.": "Prašome pasirinkti bent %."
+  "Please select exactly %s.": "Prašome pasirinkti lygiai %."
+  "Please select no more than %s.": "Prašome pasirinkti ne daugiau nei %."
+  "Please select one.": "Prašome pasirinkti vieną."
+  "Please send a video, or type skip.": "Prašome išsiųsti video įrašą, arba įrašyti "praleisti"."
+  "Please send a video.": "Prašome išsiųsti video įrašą."
+  "Please send an audio clip, or type skip.": "Prašome išsiųsti audio failą, arba įrašyti "praleisti"."
+  "Please send an audio clip.": "Prašome išsiųsti audio įrašą."
+  "Please send an image or file, or type skip.": "Prašome išsiųsti paveikslėlį arba failą, arba įrašyti "praleisti"."
+  "Please send an image or file.": "Prašome išsiųsti paveikslėlį arba failą."
+  "Please send one or more images, or type skip.": "Prašome išsiųsti vieną ar daugiau paveikslėlių, arba įrašyti "praleisti"."
+  "Please send one or more images.": "Prašome išsiųsti vieną arba daugiau paveikslėlių."
+  "Please upload a file with a valid file format.": "Prašome įkelti failą tinkamu formatu."
+  "Possibly not defined": "Tikėtina neapibrėžtas"
+  "Possibly not used": "Tikėtina nenaudojamas"
+  "Press one of the following buttons:": "Paspauskite vieną iš šių mygtukų:"
+  "Preview": "Peržiūra"
+  "Privilege": "Privilegija"
+  "Privileges": "Privilegijos"
+  "Problem detected.": "Aptikta problema."
+  "Profile": "Profilis"
+  "Profile Page": "Profilio puslapis"
+  "Project name cannot begin with a number": "Projekto pavadinimas negali prasidėti skaičiumi"
+  "Project name is required": "Reikalingas projekto pavadinimas"
+  "Projects": "Projektai"
+  "Publish": "Skelbti"
+  "Publish on PyPI also": "Skelbti taip pat PyPI"
+  "Pull": "Įkelti"
+  "Pull GitHub or PyPI Package": "Įkelti GitHub arba PyPI paketą."
   "Pushed commit to GitHub.": null
-  "PyPI": null
-  "PyPI Password": null
-  "PyPI Username": null
-  "PyPI package": null
-  "Question": null
-  "README file": null
-  "Read this screen out loud": null
-  "Reason for needing developer account (optional)": null
-  "Reconfigure": null
-  "Register": null
-  "Registration is invite only": null
-  "Remember me": null
-  "Remove": null
-  "Rename": null
-  "Rename project": null
-  "Reorder by moving down": null
-  "Reorder by moving up": null
-  "Resend email confirmation email": null
-  "Restart": null
-  "Restarting": null
-  "Resume": null
-  "Retype New Password": null
-  "Retype Password": null
-  "Role": null
-  "Room": null
-  "Running in other tab.": null
-  "SMS": null
-  "Save": null
-  "Save and Run": null
-  "Save changes": null
-  "Saved at": null
-  "Scan": null
-  "Scan the barcode with your phone's authenticator app and enter the verification code.": null
-  "Search": null
-  "Second Subdivision": null
-  "Second subdivision": null
-  "Section": null
-  "Security Method": null
-  "Select a value between": null
+  "PyPI": "PyPI"
+  "PyPI Password": "PyPI slaptažodis"
+  "PyPI Username": "PyPI naudotojo vardas"
+  "PyPI package": "PyPI paketas"
+  "Question": "Klausimas"
+  "README file": "README failas"
+  "Read this screen out loud": "Perskaityti ekrano turinį balsu"
+  "Reason for needing developer account (optional)": "Priežastis, dėl kurios reikia programuotojo paskyros (neprivaloma)"
+  "Reconfigure": "Perkonfigūruoti"
+  "Register": "Registruoti"
+  "Registration is invite only": "Registracija tik su pakvietimais"
+  "Remember me": "Prisiminti mane"
+  "Remove": "Šalinti"
+  "Rename": "Pervadinti"
+  "Rename project": "Pervadinti projektą"
+  "Reorder by moving down": "Pertvarkyti žemyn"
+  "Reorder by moving up": "Pertvarkyti aukštyn"
+  "Resend email confirmation email": "Persių
+  "Restart": "Perkrauti"
+  "Restarting": "Perkraunamas"
+  "Resume": "Tęsti"
+  "Retype New Password": "Pakartotinai įrašykite naują slaptažodį"
+  "Retype Password": "Pakartotinai įrašykite slaptažodį" 
+  "Role": "Rolė"
+  "Room": "Kambarys"
+  "Running in other tab.": "Veikia kitoje naršyklės kortelėje."
+  "SMS": "SMS"
+  "Save": "Išsaugoti"
+  "Save and Run": "Išsaugoti ir paleisti"
+  "Save changes": "Išsaugoti keitimus"
+  "Saved at": "Išsaugota"
+  "Scan": "Skenuoti"
+  "Scan the barcode with your phone's authenticator app and enter the verification code.": "Nuskenuokite brūkšninį kodą atpažinimo programėle savo telefone ir įrašykite verifikavimo kodą."
+  "Search": "Ieškoti"
+  "Second Subdivision": "Antras Padalijimas"
+  "Second subdivision": "Antras padalijimas"
+  "Section": "Dalis"
+  "Security Method": "Saugos metodas"
+  "Select a value between": "Pasirinkite reikšmę tarp" 
   "Select box": null
   "Select file": null
   "Select one": null
