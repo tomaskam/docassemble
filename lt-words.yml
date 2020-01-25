@@ -409,28 +409,30 @@
   "Section": "Dalis"
   "Security Method": "Saugos metodas"
   "Select a value between": "Pasirinkite reikšmę tarp" 
-  "Select box": null
-  "Select file": null
-  "Select one": null
-  "Select the folder from your OneDrive that you want to be synchronized with the Playground.": null
-  "Select...": null
-  "Send": null
-  "Send confirmation email": null
-  "Send reset password email": null
-  "Server did not respond to request for update.": null
-  "Show attributes": null
-  "Show context of example": null
-  "Show variables and values": null
-  "Sign In": null
-  "Sign Out": null
-  "Sign Your Name": null
-  "Sign in": null
-  "Sign in or sign up to save answers": null
-  "Sign in to save answers": null
-  "Sign in with your mobile phone": null
-  "Since you changed a Python module, the server needs to restart in order to load your module.": null
-  "Since you did not type \"delete my account\" I did not delete your account.": null
-  "Since you renamed a project, the server needs to restart in order to reload any modules.": null
+  "Select box": "Pasirinkite langelį"
+  "Select file": "Pasirinkite failą"
+  "Select one": "Pasirinkite vieną"
+  "Select the folder from your OneDrive that you want to be synchronized with the Playground.": "Pasirinkite aplanką savo OneDrive, kurį jūs norite sinchronizuoti su Playground."
+  "Select...": "Pasirinkite..."
+  "Send": "Siųsti"
+  "Send confirmation email": "Siųsti patvirtinimo el. laišką"
+  "Send reset password email": "Siųsti slaptažodžio atkūrimo el. laišką"
+  "Server did not respond to request for update.": "Serveris neatsakė į užklausą dėl antaujinimo."
+  "Show attributes": "Rodyti atributus"
+  "Show context of example": "Rodyti pavyzdžio kontekstą"
+  "Show variables and values": "Rodyti kintamuosius ir reišmes"
+  "Sign In": "Prisijungti"
+  "Sign Out": "Atsijungti"
+  "Sign Your Name": "Įrašykite savo vardą"
+  "Sign in": "Prisijungti"
+  "Sign in or sign up to save answers": "Norėdami išsaugoti atsakymus, prisijunkite arba prisiregistruokite"
+  "Sign in to save answers": "Norėdami išsaugoti atsakymus, prisijunkite"
+  "Sign in with your mobile phone": "Prisijunkite savo mobiliuoju telefonu"
+  "Since you changed a Python module, the server needs to restart in order to load your module.": "Kadangi pakeitėte Phyton modulį, būtina perkrauti serverį, kad paleisti jūsų modulį."
+  "Since you did not type \"delete my account\" I did not delete your account.": "Kadangi jūs neįrašėte \"ištrinti mano paskyrą"\, aš neištryniau jūsų paskyros."
+  
+  "Since you renamed a project, the server needs to restart in order to reload any modules.": null\, aš neištryniau jūsų paskyros."
+  
   "Since you uploaded a Python module, the server needs to restart in order to load your module.": null
   "Social ID": null
   "Sorry, no help is available for this question.": null
@@ -716,7 +718,7 @@
   "could not connect to OneDrive": null
   "day": null
   "definitions of words": null
-  "delete my account": null
+  "delete my account": "ištrinti mano paskyrą"
   "e.g., *example.com": null
   "e.g., 56.33.114.49": null
   "exit": null
