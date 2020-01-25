@@ -668,104 +668,101 @@
   "Your GitHub integration has already been configured.": "Jūsų GitHub integracija jau sukonfiguruota."
   "Your GitHub settings were saved.": "Jūsų GitHub nustatymai buvo išsaugoti."
   "Your IP address is": "Jūsų IP adresas yra"
-  "Your Playground is connected to your Google Drive.": "Jūsų Playground yra susietas su GoogleDrive."
+  "Your Playground is connected to your Google Drive.": "Jūsų Playground yra susietas su jūsų GoogleDrive."
   "Your Playground is connected to your OneDrive.": "Jūsų Playground yra susietas su jūsų OneDrive."
-  ? "Your account already has two-factor authentication enabled.  Would you like to reconfigure or disable two-factor authentication?"
-  : null
-  "Your account has been disabled.": null
-  "Your account has not been enabled.": null
-  "Your account no longer uses two-factor authentication.": null
-  ? "Your browser session has expired and you have been signed out.  You will not be able to save your work.  Please log in again."
-  : null
-  "Your confirmation token has expired.": null
-  "Your document is attached.": null
-  "Your document, ": null
-  "Your documents are attached.": null
-  "Your documents will be e-mailed to": null
-  "Your documents, ": null
-  "Your e-mail address": null
-  "Your email address": null
-  ? "Your email address has not yet been confirmed. Check your email Inbox and Spam folders for the confirmation email or <a href=\"%(url)s\">Re-send confirmation email</a>."
-  : null
-  "Your email has been confirmed.": null
-  "Your information was saved.": null
-  "Your new API key, known internally as": null
-  "Your password has been changed successfully.": null
-  "Your password has been reset successfully.": null
-  "Your password is insecure and needs to be changed": null
-  "Your request was submitted.": null
-  "Your reset password token has expired.": null
-  "Your reset password token is invalid.": null
-  "Your screen is being controlled by an operator.": null
-  "Your username has been changed to '%(username)s'.": null
-  "Your verification code is": null
-  "Your verification code is invalid or expired.  Please try again.": null
-  "Your verification code was invalid or expired.": null
-  "Your verification code was invalid.": null
-  "Your verification code was missing or expired": null
-  "Your version is": null
-  "Zip File": null
-  "a GitHub repository": null
-  "and": null
-  "and enter the code": null
-  "anonymous visitor": null
-  "are you": null
-  "back": null
-  "blank message": null
-  "could not connect to Google Drive": null
-  "could not connect to OneDrive": null
-  "day": null
-  "definitions of words": null
+  "Your account already has two-factor authentication enabled.  Would you like to reconfigure or disable two-factor authentication?": "Jūsų paskyroje jau įjungta dviejų faktorių autentifikacija. Ar pageidaujate perkonfigūruoti arba išjungti dviejų faktorių autentifikaciją?"
+  "Your account has been disabled.": "Jūsų paskyra buvo išjungta."
+  "Your account has not been enabled.": "Jūsų paskyra nebuvo įjungta."
+  "Your account no longer uses two-factor authentication.": "Jūsų paskyra nenaudoja dviejų faktorių autentifikacijos."
+  "Your browser session has expired and you have been signed out.  You will not be able to save your work.  Please log in again.": "Jūsų naršyklės sesija pasibaigė ir jūs buvote atjungti. Jūs negalėsite išsaugoti savo darbo. Prašome prisijungti iš naujo."
+  "Your confirmation token has expired.": "Jūsų patvirtinimo žetono galiojimo laikas pasibaigė."
+  "Your document is attached.": "Jūsų dokumentas pridedamas."
+  "Your document, ": "Jūsų dokumentas, "
+  "Your documents are attached.": "Jūsų dokumentai yra pridedami."
+  "Your documents will be e-mailed to": "Jūsų dokumentai bus išsiųsti el. paštu į"
+  "Your documents, ": "Jūsų dokumentai, "
+  "Your e-mail address": "Jūsų el. pašto adresas"
+  "Your email address": "Jūsų el. pašto adresas"
+  "Your email address has not yet been confirmed. Check your email Inbox and Spam folders for the confirmation email or <a href=\"%(url)s\">Re-send confirmation email</a>.": "Jūsų el. pašto adresas dar nebuvo patvirtintas. Pasitikrinkite savo el. pašto dežutės Inbox ir Spam aplankus, kuriuose gali būti patvirtinimo el. laiškas arba <a href=\"%(url)s\">Pakartotinai atsiųsti patvirtinimo el. laišką</a>."
+  "Your email has been confirmed.": "Jūsų el. pašto adresas buvo patvirtintas."
+  "Your information was saved.": "Jūsų informacija buvo išsaugota."
+  "Your new API key, known internally as": "Jūsų naujas API raktas, viduje žinomas kaip"
+  "Your password has been changed successfully.": "Jūsų slaptažodis buvo pakeistas sėkmingai."
+  "Your password has been reset successfully.": "Jūsų slaptažodis buvo atkurtas sėkmingai."
+  "Your password is insecure and needs to be changed": "Jūsų slaptažodis yra nesaugus ir turi būti pakeistas"
+  "Your request was submitted.": "Jūsų užklausa buvo pateikta."
+  "Your reset password token has expired.": "Jūsų slaptažodžio atkūrimo žetono galiojimo laikas pasibaigė." 
+  "Your reset password token is invalid.": "Jūsų slaptažodžio atkūrimo žetonas yra negaliojantis."
+  "Your screen is being controlled by an operator.": "Jūsų ekraną kontroliuoja operatorius."
+  "Your username has been changed to '%(username)s'.": "Jūsų naudotojo vardas buvo pakeistas į "%(username)s'."
+  "Your verification code is": "Jūsų verifikacijos kodas yra"
+  "Your verification code is invalid or expired.  Please try again.": "Jūsų verifikavimo kodas yra negaliojantis arba jo galiojimo laikas yra pasibaigęs. Prašome bandyti iš naujo."
+  "Your verification code was invalid or expired.": "Jūsų verifikavimo kodas buvo negaliojantis arba jo galiojimo laikas buvo pasibaigęs."
+  "Your verification code was invalid.": "Jūsų verifikavimo kodas buvo negaliojantis arba jo galiojimo laikas buvo pasibaigęs."
+  "Your verification code was missing or expired": "Jūsų verifikavimo kodas buvo dingęs arba jo galiojimo laikas buvo pasibaigęs."
+  "Your version is": "Jūsų versija yra"
+  "Zip File": "Zip failas"
+  "a GitHub repository": "GitHub saugykla"
+  "and": "ir"
+  "and enter the code": "ir įrašykite kodą"
+  "anonymous visitor": "anoniminis lankytojas"
+  "are you": "ar jūs esate"
+  "back": "atgal"
+  "blank message": "tuščia žinutė"
+  "could not connect to Google Drive": "negalima prisijungti prie Google Drive"
+  "could not connect to OneDrive": "negalima prisijungti prie OneDrive"
+  "day": "diena"
+  "definitions of words": "žodžių apibrėžtys"
   "delete my account": "ištrinti mano paskyrą"
-  "e.g., *example.com": null
-  "e.g., 56.33.114.49": null
-  "exit": null
-  "f": null
-  "false": null
-  "for debugging PDF output": null
-  "for downloading": null
-  "for editing; requires Microsoft Word or compatible application": null
-  "for editing; requires Microsoft Word, Wordpad, or similar application": null
-  "for printing; requires Adobe Reader or similar application": null
-  "from": null
-  "he": null
-  "her": null
-  "him": null
+  "e.g., *example.com": "pvz., *pavyzdys.com"
+  "e.g., 56.33.114.49": "pvz., 56.33.114.49"
+  "exit": "išeiti"
+  "f": "f"
+  "false": "netiesa"
+  "for debugging PDF output": "PDF rezultatų derinimui"
+  "for downloading": "atsisiuntimui"
+  "for editing; requires Microsoft Word or compatible application": "redagavimui; reikalinga Microsoft Word arba kita suderinama programinė įranga".
+  "for editing; requires Microsoft Word, Wordpad, or similar application": "redagavimui; reikalinga Microsoft Word, Wordpad, arba panaši programa"
+  "for printing; requires Adobe Reader or similar application": "spausdinimui; reikalinga Adobe Reader arba panaši programa"
+  "from": "iš"
+  "he": "jis"
+  "her": "ji"
+  "him": "jam"
   "in the": null
-  "interview answers cannot be decrypted": null
-  "is": null
-  "is not a valid date and time.": null
-  "is not a valid date.": null
-  "is not a valid number.": null
-  "is not a valid time.": null
-  "is not a whole number.": null
-  "is not within the range.": null
-  "it": null
-  "link": null
-  "means the name is located in this file": null
-  "means the name may be located in a file included by reference, such as:": null
-  "menu": null
-  "menu items": null
-  "merge from Playground": null
-  "month": null
-  "n": null
-  "no": null
-  "none": null
-  "offline": null
-  "ok": null
-  "operator": null
-  "operators": null
-  "or type skip to leave blank.": null
-  "other user": null
-  "other users": null
-  "pages": null
-  "password": null
-  "pip log": null
-  "published on GitHub": null
-  "published on PyPI": null
-  "published on your GitHub account": null
-  "question": null
-  "quit": null
+  "interview answers cannot be decrypted": "interviu atsakyma negali būti iššifruoti"
+  "is": "yra"
+  "is not a valid date and time.": "nėra tinkama data ir laikas."
+  "is not a valid date.": "nėra tinkama data."
+  "is not a valid number.": "nėra tinkamas skaičius."
+  "is not a valid time.": "nėra tinkamas laikas."
+  "is not a whole number.": "nėra sveikas skaičius."
+  "is not within the range.": "nėra nustatytoje rėžtyje."
+  "it": "tai"
+  "link": "nuoroda"
+  "means the name is located in this file": "reiškia, jog pavadinimas yra šiame faile"
+  "means the name may be located in a file included by reference, such as:": "reiškia, jog pavadinimas gali būti faile į kurį daroma nuoroda, kaip kad:"
+  "menu": "meniu"
+  "menu items": "meniu elementai"
+  "merge from Playground": "sujungti iš Playground"
+  "month": "mėnuo"
+  "n": "n"
+  "no": "ne"
+  "none": "joks(-ia)"
+  "offline": "nepasiekiamas"
+  "ok": "gerai"
+  "operator": "operatorius"
+  "operators": "operatoriai"
+  "or type skip to leave blank.": "arba įrašykite praleisti norėdami palikti tuščią."
+  "other user": "kitas naudotojas"
+  "other users": "kiti naudotojai"
+  "pages": "puslapiai"
+  "password": "slaptažodis"
+  "pip log": "pip žurnalas"
+  "published on GitHub": "paskelbtas GitHub"
+  "published on PyPI": "paskelbtas PyPI"
+  "published on your GitHub account": "paskelbtas GitHub paskyroje"
+  "question": "klausimas"
+  "quit": "baigti"
   "she": "ji"
   "skip": "praleisti"
   "something": "kažką"
@@ -785,4 +782,3 @@
   "yes": "taip"
   "you": "jūs"
   "yourself": "pats"
-
