@@ -18,7 +18,7 @@
   "A chat message has arrived.": "Gavote pokalbio žinutę."
   "A confirmation email has been sent to %(email)s with instructions to complete your registration.": "Patvirtinimo el. laiškas su instrukcijomis, kaip užbaigti jūsų registraciją, buvo išsiųstas %(email)." 
   "A new docassemble system version is available.  If you are using Docker, install a new Docker image.": "Yra prieinama nauja docassemble sistemos versija. Jeigu naudojate Docker, įdiekite naują Docker vaizdą."
-  "A reset password email has been sent to '%(email)s'. Open that email and follow the instructions to reset your password.": "Slaptažodžio atkūrimo el. laiškas buvo išsiųstas %(email). Atidaryk šį el. laišką ir sek slaptažodžio atkūrimo instrukcijas."
+  "A reset password email has been sent to '%(email)s'. Open that email and follow the instructions to reset your password.": "Slaptažodžio atkūrimo el. laiškas buvo išsiųstas %(email)s. Atidaryk šį el. laišką ir sek slaptažodžio atkūrimo instrukcijas."
   "A user with that e-mail has already registered": "Naudotojas su šiuo el. pašto adresu jau registruotas."
   "API Keys": "API raktai"
   "Access organizational repositories": "Prieiti prie organizacinių saugyklų"
@@ -71,7 +71,7 @@
   "Change username": "Pakeisti naudotojo vardą"
   "Changed name of interview": "Pakeisti interviu pavadinimą"
   "Chat message you want to send": "Pokalbio žinutė, kurią norite siųsti"
-  "Check at least one option, or check “%s”": "Pažymėkite bent vieną parinktį arba pažymėkite “%”"
+  "Check at least one option, or check “%s”": "Pažymėkite bent vieną parinktį arba pažymėkite “%s”"
   "Check box": "Pažymėkite langelį"
   "Check if applicable": "Pažymėkite, jei taikoma"
   "Checkboxes:": "Žymimieji langeliai:"
@@ -208,7 +208,7 @@
   "I don't know": "Aš nežinau"
   "Import": "Importuoti"
   "Import method": "Importuoti metodą"
-  "Incorrect %(username_or_email)s and/or Password": "Neteisingas %(username_or_email) ir/ar slaptažodis"
+  "Incorrect %(username_or_email)s and/or Password": "Neteisingas %(username_or_email)s ir/ar slaptažodis"
   "Incorrect Email and/or Password": Neteisingas el. pašto adresas ir/ar slaptažodis"
   "Incorrect Password": "Neteisingas slaptažodis"
   "Input box": "Įvesties langelis"
@@ -340,9 +340,9 @@
   "Please enter the verification code from the text message we just sent you.": "Prašome įvesti verifikavimo kodą, kuris yra nurodytas  ką tik jums išsiųstoje žinutėje."
   "Please enter the verification code from your authentication app.": "Prašome įvesti verifikavimo kodą, kuris yra nurodytas atpažinimo programėlėje." 
   "Please log in.": "Prašome prisijungti."
-  "Please select at least %s.": "Prašome pasirinkti bent %."
-  "Please select exactly %s.": "Prašome pasirinkti lygiai %."
-  "Please select no more than %s.": "Prašome pasirinkti ne daugiau nei %."
+  "Please select at least %s.": "Prašome pasirinkti bent %s."
+  "Please select exactly %s.": "Prašome pasirinkti lygiai %s."
+  "Please select no more than %s.": "Prašome pasirinkti ne daugiau nei %s."
   "Please select one.": "Prašome pasirinkti vieną."
   "Please send a video, or type skip.": "Prašome išsiųsti video įrašą, arba įrašyti "praleisti"."
   "Please send a video.": "Prašome išsiųsti video įrašą."
@@ -447,68 +447,68 @@
   "Special variable": "Specialusis kintamasis"
   "Starting a new interview.  To go back to your previous interview, go to My Interviews on the menu.": "Pradedamas naujas interviu. Norėdami grįžti atgal į ankstesnį interviu, meniu paspauskite Mano interviu."
   "Starting a new interview.  To go back to your previous interview, log in to see a list of your interviews.": "Pradedamas naujas interviu. Norėdami grįžti atgal į ankstesnį interviu, prisijunkite, kad matytumėte interviu sąrašą."
-  "Static Files": null
-  "Static files": null
-  "Stop Controlling": null
-  "Stop Observing": null
-  "Submit": null
-  "Synchronizing": null
-  "System": null
-  "Telephone assistance": null
-  "Template files": null
-  "Templates": null
-  "Terms used in this question:": null
-  "Terms used:": null
-  "That package name is already in use by someone else.  Please change the name.": null
-  "That screen is already being controlled by another operator": null
-  "The author is": null
-  "The configuration file was saved.": null
-  "The default project cannot be deleted.": null
-  "The document is available in the following formats:": null
-  "The file you requested does not exist.": null
-  "The following document has been created for you.": null
-  "The following documents have been created for you.": null
-  "The information was saved.": null
-  "The key no longer exists": null
-  "The key was deleted": null
-  "The link has expired.": null
-  "The mapping was reset because the folder does not appear to exist anymore.": null
-  "The name must be filled in.": null
-  "The new user has been created": null
-  "The operator is no longer controlling your screen.": null
-  "The package information was saved.": null
-  "The package update did not report an error.  The logs are below.": null
-  "The package update reported an error.  The logs are below.": null
-  "The package was unpacked into the Playground.": null
-  "The package you specified could not be downloaded from PyPI as a tar.gz file.": null
-  "The package you specified could not be downloaded from PyPI.": null
-  "The previously selected OneDrive folder does not exist.": null
-  "The previously selected OneDrive folder was deleted.": null
-  "The privilege could not be added because it already exists.": null
-  "The privilege was added.": null
-  "The project name %s is not available.": null
-  "The regular expression you provided could not be parsed.": null
-  "The role could not be deleted.": null
-  "The synchronization was not successful.": null
-  "The synchronization was successful.": null
-  "The user account was deleted.": null
-  "The user can call you.  Click to cancel.": null
-  "The user profile was not changed.": null
-  "The version on PyPI is": null
-  "There are unsaved changes.  Are you sure you wish to leave this page?": null
-  "There is already a username and password on this system with the e-mail address": null
-  "There was a problem reading the YAML file you uploaded.  Are you sure it is a YAML file?  File was not saved.": null
-  "There was a problem sending the text message.": null
-  "There was a problem sending you a text message.  Please log in another way.": null
-  "There was an error updating the packages.": null
-  "There was an error with the synchronization.": null
-  "There was an error.": null
-  "Third Subdivision": null
-  "Third subdivision": null
-  "This Email is already in use. Please try another one.": null
-  "This Username is already in use. Please try another one.": null
-  "This account uses two-factor authentication.": null
-  "This field is required.": null
+  "Static Files": "Statiniai Failai"
+  "Static files": "Statiniai failai"
+  "Stop Controlling": "Sustabdyti kontrolę"
+  "Stop Observing": "Sustabdyti stebėjimą"
+  "Submit": "Pateikti"
+  "Synchronizing": "Sinchronizuoti"
+  "System": "Sistema"
+  "Telephone assistance": "Pagalba telefonu"
+  "Template files": "Šabloniniai failai"
+  "Templates": "Šablonai"
+  "Terms used in this question:": "Šiame klausiem naudojami terminai"
+  "Terms used:": "Naudojami terminai"
+  "That package name is already in use by someone else.  Please change the name.": "Tokio paketo pavadinimas jau yra naudojamas kažkieno kito. Prašome pakeisti pavadinimą."
+  "That screen is already being controlled by another operator": "Tas ekranas jau yra kontroliuojamas kito operatoriaus"
+  "The author is": "Autorius yra"
+  "The configuration file was saved.": "Konfiguravimo failas buvo išsaugotas."
+  "The default project cannot be deleted.": "Numatytasis projektas negali būti ištrintas."
+  "The document is available in the following formats:": "Dokumentas yra prieinamas šiais formatais:"
+  "The file you requested does not exist.": "Jūsų prašomas failas neegzistuoja."
+  "The following document has been created for you.": "Šis dokumentas buvo parengti jums."
+  "The following documents have been created for you.": "Šie dokumentai buvo parengti jums."
+  "The information was saved.": "Informacija buvo išsaugota."
+  "The key no longer exists": "Raktas nebeegzistuoja"
+  "The key was deleted": "Raktas buvo ištrintas"
+  "The link has expired.": "Nuoroda nebegalioja."
+  "The mapping was reset because the folder does not appear to exist anymore.": "Atvaizdavimas buvo paleistas iš naujo, nes aplankas nebeegzistuoja."
+  "The name must be filled in.": "Pavadinimas privalo būti įrašytas."
+  "The new user has been created": "Naujas naudotojas buvo sukurtas"
+  "The operator is no longer controlling your screen.": "Operatorius nebekontroliuoja jūsų ekrano."
+  "The package information was saved.": "Paketo informacija buvo išsaugota."
+  "The package update did not report an error.  The logs are below.": "Paketo atnaujinimas nepranešė apie klaidą. Žurnalai yra pateikiami žemiau."
+  "The package update reported an error.  The logs are below.": "Paketo atnaujinimas pranešė apie klaidą. Žurnalo paketai yra pateikiami žemiau.
+  "The package was unpacked into the Playground.": "Paketas buvo išpakuotas į Playground."
+  "The package you specified could not be downloaded from PyPI as a tar.gz file.": "Jūsų nurodytas paketas negalėjo būti atsiųstas iš PyPI, kaip tar.gz failas."
+  "The package you specified could not be downloaded from PyPI.": "Jūsų nurodytas paketas negalėjo būti atsiųstas iš PyPI."
+  "The previously selected OneDrive folder does not exist.": "Anksčiau pasirinktas OneDrive aplankas neegzistuoja."
+  "The previously selected OneDrive folder was deleted.": "Anksčiau pasirinktas OneDrive aplankas buvo ištrintas."
+  "The privilege could not be added because it already exists.": "Privilegija negalėjo būti pridėta, nes ji jau egzistuoja."
+  "The privilege was added.": "Privilegija buvo pridėta."
+  "The project name %s is not available.": "Projekto pavadinimas %s neegzistuoja."
+  "The regular expression you provided could not be parsed.": "Jūsų nurodytas reguliarusis reiškinys negali būti išanalizuotas."
+  "The role could not be deleted.": "Rolė negali būti ištrinta."
+  "The synchronization was not successful.": "Sinchronizacija nebuvo sėkminga."
+  "The synchronization was successful.": "Sinchronizacija buvo sėkminga."
+  "The user account was deleted.": "Naudotojo paskyra buvo ištrinta."
+  "The user can call you.  Click to cancel.": "Naudotojas gali jums paskambinti. Pasapauskite, kad atsisakytumėte.
+  "The user profile was not changed.": "Naudotojo profilis nebuvo pakeistas."
+  "The version on PyPI is": "Versija PyPI yra"
+  "There are unsaved changes.  Are you sure you wish to leave this page?": "Yra neišsaugotų pakeitimų. Ar esate įsitikinę, kad norite išeiti iš šio puslapio?"
+  "There is already a username and password on this system with the e-mail address": "Sistemoje jau yra naudotojo vardas ir slaptažodis su el. pašto adresu"
+  "There was a problem reading the YAML file you uploaded.  Are you sure it is a YAML file?  File was not saved.": "Aptikta problema skaitant YAML failą, kurį įkėlėte. Ar esate įsitikinę, jog tai YAML failas. Failas nebuvo išsaugotas."
+  "There was a problem sending the text message.": "Aptikta problema siunčiant žinutę."
+  "There was a problem sending you a text message.  Please log in another way.": "Aptikta problema siunčiant žinutę. Prašome prisijungti kitu būdu."
+  "There was an error updating the packages.": "Aptikta klaida atnaujinant paketus."
+  "There was an error with the synchronization.": "Aptikta klaida sinchronizuojant."
+  "There was an error.": "Aptikta klaida."
+  "Third Subdivision": "Trečias Padalijimas"
+  "Third subdivision": "Trečias padalijimas"
+  "This Email is already in use. Please try another one.": "Šis el. pašto adresas jau naudojamas. Prašome pabandyti kitą."
+  "This Username is already in use. Please try another one.": "Šis naudotojo vardas jau naudojamas. Prašome pabandyti kitą."
+  "This account uses two-factor authentication.": "Ši paskyra naudoja dviejų faktorių atpažinimą."
+  "This field is required.": "Šis laukas reikalingas."
   "This image file does not exist": null
   "This package is": null
   "This package is not yet published on PyPI.": null
