@@ -17,7 +17,7 @@
   "A QR code": "QR kodas"
   "A chat message has arrived.": "Gavote pokalbio žinutę."
   "A confirmation email has been sent to %(email)s with instructions to complete your registration.": "Patvirtinimo el. laiškas su instrukcijomis, kaip užbaigti jūsų registraciją, buvo išsiųstas %(email)." 
-  "A new docassemble system version is available.  If you are using Docker, install a new Docker image.": "Yra prieinama nauja docassemble sistemos versija. Jeigu naudojate Docker, įdiekite naują Docker vaizdą."
+  "A new docassemble system version is available.  If you are using Docker, install a new Docker image.": "Yra prieinama nauja docassemble sistemos versija. Jeigu naudojate Docker, instaliuokite naują Docker vaizdą."
   "A reset password email has been sent to '%(email)s'. Open that email and follow the instructions to reset your password.": "Slaptažodžio atkūrimo el. laiškas buvo išsiųstas %(email)s. Atidaryk šį el. laišką ir sek slaptažodžio atkūrimo instrukcijas."
   "A user with that e-mail has already registered": "Naudotojas su šiuo el. pašto adresu jau registruotas."
   "API Keys": "API raktai"
@@ -50,8 +50,8 @@
   "At least one e-mail address must be listed": "Bent vienas elektroninis adresas privalo būti nurodytas"
   "Attachment": "Priedas"
   "Attachments": "Priedai"
-  "Authentication": "Atpažinimas"
-  "Authentication failed.": "Atpanižimas nepavyko."
+  "Authentication": "Autentifikavimas"
+  "Authentication failed.": "Autentifikavimas nepavyko."
   "Author E-mail": "Autoriaus el. pašto adresas"
   "Author Name": "Autoriaus vardas"
   "Available": "Pasiekiamas"
@@ -338,7 +338,7 @@
   "Please enter a whole number.": "Prašome įvesti sveikąjį skaičių."
   "Please enter the four digit code, followed by the pound sign.": "Prašome įvesti keturių skaitmenų kodą ir paspausti groteles."
   "Please enter the verification code from the text message we just sent you.": "Prašome įvesti verifikavimo kodą, kuris yra nurodytas  ką tik jums išsiųstoje žinutėje."
-  "Please enter the verification code from your authentication app.": "Prašome įvesti verifikavimo kodą, kuris yra nurodytas atpažinimo programėlėje." 
+  "Please enter the verification code from your authentication app.": "Prašome įvesti verifikavimo kodą, kuris yra nurodytas autentifikavimo programėlėje." 
   "Please log in.": "Prašome prisijungti."
   "Please select at least %s.": "Prašome pasirinkti bent %s."
   "Please select exactly %s.": "Prašome pasirinkti lygiai %s."
@@ -402,7 +402,7 @@
   "Save changes": "Išsaugoti keitimus"
   "Saved at": "Išsaugota"
   "Scan": "Skenuoti"
-  "Scan the barcode with your phone's authenticator app and enter the verification code.": "Nuskenuokite brūkšninį kodą atpažinimo programėle savo telefone ir įrašykite verifikavimo kodą."
+  "Scan the barcode with your phone's authenticator app and enter the verification code.": "Nuskenuokite brūkšninį kodą autentifikavimo programėle savo telefone ir įrašykite verifikavimo kodą."
   "Search": "Ieškoti"
   "Second Subdivision": "Antras Padalijimas"
   "Second subdivision": "Antras padalijimas"
@@ -507,169 +507,169 @@
   "Third subdivision": "Trečias padalijimas"
   "This Email is already in use. Please try another one.": "Šis el. pašto adresas jau naudojamas. Prašome pabandyti kitą."
   "This Username is already in use. Please try another one.": "Šis naudotojo vardas jau naudojamas. Prašome pabandyti kitą."
-  "This account uses two-factor authentication.": "Ši paskyra naudoja dviejų faktorių atpažinimą."
+  "This account uses two-factor authentication.": "Ši paskyra naudoja dviejų faktorių authentifikavimą."
   "This field is required.": "Šis laukas reikalingas."
-  "This image file does not exist": null
-  "This package is": null
-  "This package is not yet published on PyPI.": null
-  "This package is not yet published on your GitHub account.": null
-  "This package was originally pulled from": null
-  "Thumbnail image of document": null
-  "Time Zone": null
-  "To reach an advocate who can assist you, call": null
-  "To read the question again, type question.": null
-  "Token": null
-  "Train": null
-  "Train machine learning models": null
-  "Training data were successfully imported.": null
-  "Translate": null
-  "Turn off chat": null
-  "Twice Per Month": null
-  "Two-factor authentication": null
-  "Type": null
-  "Type \"delete my account\" here to confirm that you want to delete your account.": null
-  "Type ? for additional assistance.": null
-  "Type ? to see": null
-  "Type Ctrl-space to autocomplete.": null
-  "Type [y]es or [n]o.": null
-  "Type [y]es, [n]o, or [d]on't know": null
-  "Type a currency value, or type skip.": null
-  "Type a currency value.": null
-  "Type a date and time, or type skip.": null
-  "Type a date and time.": null
-  "Type a date, or type skip.": null
-  "Type a date.": null
-  "Type a number, or type skip.": null
-  "Type a number.": null
-  "Type a time, or type skip.": null
-  "Type a time.": null
-  "Type a value between": null
-  "Type an e-mail address, or type skip.": null
-  "Type an e-mail address.": null
-  "Type ok to continue.": null
-  "Type the": null
-  "Type x to sign your name electronically": null
-  "Type your message here.": null
-  "Type your selection(s), separated by commas, or type none.": null
-  "Type your selection(s), separated by commas.": null
-  "Type your selection, or type skip to move on without selecting.": null
-  "Type your selection.": null
-  "URL": null
-  "Unable to determine if the package is published on PyPI.": null
-  "Unable to determine if the package is published on your GitHub account.": null
-  "Unable to e-mail your documents to": null
-  "Unable to find documents to e-mail.": null
-  "Unable to locate interview session.  Starting a new session instead.": null
-  "Unable to retrieve interview session.  Starting a new session instead.": null
-  "Unable to send e-mail to": null
-  "Unable to send e-mail.  Error was: ": null
-  "Unable to send verification code.": null
-  "Unblock": null
-  "Undefined names": null
-  "Undelete": null
-  "Unit": null
-  "Unknown": null
-  "Unnamed User": null
-  "Untitled": null
-  "Update": null
-  "Updating": null
-  "Upload": null
-  "Upload a Python module": null
-  "Upload a source file": null
-  "Upload a static file": null
-  "Upload a template file": null
-  "Upload successful": null
-  "Use Package": null
-  "Used in": null
-  "User": null
-  "User List": null
-  "User Profile": null
-  "Username": null
-  "Username is required": null
-  "Username may only contain letters, numbers, '-', '.' and '_'": null
-  "Username must be at least 3 characters long": null
-  "Username or Email": null
-  "Username/Email": null
-  "Uses two-factor authentication": null
-  "Using Jinja2": null
-  "Utilities": null
-  "Valid characters are: A-Z, a-z, 0-9": null
-  "Valid characters are: A-Z, a-z, 0-9, hyphen": null
-  "Variables": null
-  "Verification code": null
-  "Verify": null
-  "Verify your phone": null
-  "Version": null
-  "Version ": null
-  "View documentation": null
-  "WARNING!  If you press Delete, the contents of the %s project will be permanently deleted.": null
-  "Waiting": null
-  "Warning: a file by that name already exists.  If you save, you will overwrite it.": null
-  "Warning: a package definition by that name already exists.  If you save, you will overwrite it.": null
-  "We just sent you a text message with a verification code.  Enter the verification code to proceed.": null
-  "We were unable to submit your request.": null
-  "Would you like to reconfigure two-factor authentication?": null
-  "Yes": null
-  "You are not allowed to access this interview.": null
-  "You are not authorized to access": null
-  "You are now set up with two factor authentication.": null
-  "You are renaming the project called %s.": null
-  "You can also follow this link: ": null
-  "You can type link1 to visit the link": null
-  "You can type link1, etc. to visit a link": null
-  "You can type menu1 to select the menu item": null
-  "You can type menu1, etc. to select a menu item": null
-  "You can type question to read the question again.": null
-  "You can upload a file here": null
-  "You cannot log in this way.": null
-  "You cannot log in until your e-mail address has been confirmed.": null
-  "You cannot pull from GitHub and PyPI at the same time.  Please fill in one and leave the other blank.": null
-  "You cannot rename the default Playground project": null
-  "You cannot take away your own admin privilege.": null
-  "You cannot type more than %s characters.": null
-  "You do not have permission to access '%(url)s'.": null
-  "You do not have permission to install this package.": null
-  "You have made too many login attempts.": null
-  "You have registered successfully.": null
-  "You have signed in successfully.": null
-  "You have signed out successfully.": null
-  "You must attach a file.": null
-  "You must be signed in to access '%(url)s'.": null
-  "You must confirm your email to access '%(url)s'.": null
-  "You must provide a file.": null
-  "You must provide a language": null
-  "You must provide an interview filename": null
-  "You must select an option.": null
-  "You must sign your name to continue.": null
-  "You must type at least %s characters.": null
-  "You need to be logged in to access this interview.": null
-  "You need to enter a complete e-mail address.": null
-  "You need to enter a date between %s and %s.": null
-  "You need to enter a date on or after %s.": null
-  "You need to enter a date on or before %s.": null
-  "You need to enter a number that is at least %s.": null
-  "You need to enter a number that is at most %s.": null
-  "You need to enter a number.": null
-  "You need to enter a valid date and time.": null
-  "You need to enter a valid date.": null
-  "You need to enter a valid time.": null
-  "You need to increment the version before publishing to PyPI.": null
-  "You need to log in before you can access": null
-  "You need to log in with Auth0.": null
-  "You need to log in with Azure.": null
-  "You need to log in with Facebook.": null
-  "You need to log in with Google.": null
-  "You need to log in with Twitter.": null
-  "You need to select one or type in a new value.": null
-  "You need to select one.": null
-  "You need to supply a Git URL, upload a file, or supply the name of a package on PyPI.": null
-  "You need to type in a name for the file": null
-  "You need to type in a name for the interview": null
-  "Your GitHub integration has already been configured.": null
-  "Your GitHub settings were saved.": null
-  "Your IP address is": null
-  "Your Playground is connected to your Google Drive.": null
-  "Your Playground is connected to your OneDrive.": null
+  "This image file does not exist": "Šis paveikslėlio failas neegzistuoja"
+  "This package is": "Šis paketas yra"
+  "This package is not yet published on PyPI.": "Šis paketas kol kas nėra paskelbtas PyPI."
+  "This package is not yet published on your GitHub account.": "Šis paketas kol kas nėra paskelbtas GitHub paskyroje."
+  "This package was originally pulled from": "Šis paketas buvo įkeltas iš"
+  "Thumbnail image of document": "Dokumento paveikslėlio miniatiūra"
+  "Time Zone": "Laiko zona"
+  "To reach an advocate who can assist you, call": "Norėdami susisiekti su advokatu, kuris gali padėti, skambinkite"
+  "To read the question again, type question.": "Perskaityti klausimą vėl, įveskite klausimą."
+  "Token": "Žetonas"
+  "Train": "Mokyti"
+  "Train machine learning models": "Mokyti mašininio mokymosi modelius"
+  "Training data were successfully imported.": "Mokymosi duomenys buvo sėkmingai importuoti."
+  "Translate": "Versti"
+  "Turn off chat": "Išjungti pokalbį"
+  "Twice Per Month": "Du kartus per mėnesį"
+  "Two-factor authentication": "Dviejų faktorių autentifikavimas"
+  "Type": "Įrašyti"
+  "Type \"delete my account\" here to confirm that you want to delete your account.": "Įrašykite \"ištrinti mano paskyrą\" čia, kad patvirtintumėte, jog norite ištrinti savo paskyrą."
+  "Type ? for additional assistance.": "Įrašykite ? norėdami gauti papildomos pagalbos."
+  "Type ? to see": "Įrašykite ?, kad matytumėte"
+  "Type Ctrl-space to autocomplete.": "Įrašykite Ctrl-tarpas, kad užpildytumėte automatiškai."
+  "Type [y]es or [n]o.": "Įrašykite [t]aip arba [n]e."
+  "Type [y]es, [n]o, or [d]on't know": "Įrašykite [t]aip, [n]e, arba [n]ežinau."
+  "Type a currency value, or type skip.": "Įrašykite valiutos reikšmę, arba įrašykite praleisti."
+  "Type a currency value.": "Įrašykite valiutos reikšmę."
+  "Type a date and time, or type skip.": "Įrašykite datą ir laiką, arba įrašykite praleisti."
+  "Type a date and time.": "Įrašykite datą ir laiką."
+  "Type a date, or type skip.": "Įrašykite datą, arba įrašykite praleisti."
+  "Type a date.": "Įrašykite datą."
+  "Type a number, or type skip.": "Įrašykite skaičių, arba įrašykite praleisti."
+  "Type a number.": "Įrašykite skaičių."
+  "Type a time, or type skip.": "Įrašykite laiką, arba įrašykite praleisti."
+  "Type a time.": "Įrašykite laiką."
+  "Type a value between": "Įrašykite reikšmę tarp"
+  "Type an e-mail address, or type skip.": "Įrašykite el. pašto adresą, arba įrašykite praleisti."
+  "Type an e-mail address.": "Įrašykite el. pašto adresą."
+  "Type ok to continue.": "Įrašykite gerai norėdami tęsti."
+  "Type the": "Įrašykite"
+  "Type x to sign your name electronically": "Įrašykite x, norėdami pasirašyti elektroniniu būdu"
+  "Type your message here.": "Įrašykite savo žinutę čia."
+  "Type your selection(s), separated by commas, or type none.": "Įrašykite savo pasirinkimą(-us), atskirtus kableliais, arba įrašykite nieko."
+  "Type your selection(s), separated by commas.": "Įrašykite savo pasirinkimą(-us), atskirtus kabeleliais."
+  "Type your selection, or type skip to move on without selecting.": "Įrašykite savo pasirinkimą, arba įrašykite praleisti, norėdami tęsti be pasirinkimo."
+  "Type your selection.": "Įrašykite savo pasirinkimą."
+  "URL": "URL"
+  "Unable to determine if the package is published on PyPI.": "Negalima nustatyti, ar paketas yra paskelbtas PyPI."
+  "Unable to determine if the package is published on your GitHub account.": "Negalima nustatyti, ar paketas yra paskelbtas GitHub paskyroje."
+  "Unable to e-mail your documents to": "Negalima išsiųsti jūsų dokumentų el. paštu"
+  "Unable to find documents to e-mail.": "Negalima surasti el. paštu siunčiamų dokumentų."
+  "Unable to locate interview session.  Starting a new session instead.": "Negalima surasti interviu sesijos."
+  "Unable to retrieve interview session.  Starting a new session instead.": "Negalima nuskaityti interviu sesijos. Vietoj jos paleidžiama nauja sesijos."
+  "Unable to send e-mail to": "Negalima išsiųsti el. laiško"
+  "Unable to send e-mail.  Error was: ": "Negalima išsiųsti el. laiško. Klaida: "
+  "Unable to send verification code.": "Negalima išsiųsti verifikavimo kodo."
+  "Unblock": "Atblokuoti"
+  "Undefined names": "Neapibrėžti pavadinimai"
+  "Undelete": "Grąžinti ištrintą"
+  "Unit": "Vienetas"
+  "Unknown": "Nežinomas"
+  "Unnamed User": "Nežinomas naudotojas"
+  "Untitled": "Bevardis"
+  "Update": "Atnaujinti"
+  "Updating": "Atnaujinama"
+  "Upload": "Įkelti"
+  "Upload a Python module": "Įkelti Python modulį"
+  "Upload a source file": "Įkelti pirminį failą"
+  "Upload a static file": "Įkelti statinį failą"
+  "Upload a template file": "Įkelti šabloninį failą"
+  "Upload successful": "Įkelimas sėkmingas"
+  "Use Package": "Naudoti paketą"
+  "Used in": "Naudojamas"
+  "User": "Naudotojas"
+  "User List": "Naudotojų sąrašas"
+  "User Profile": "Naudotojo profilis"
+  "Username": "Naudotojo vardas"
+  "Username is required": "Reikalingas naudotojo vardas"
+  "Username may only contain letters, numbers, '-', '.' and '_'": "Naudotojo vardas gali būti sudarytas iš raidžių, skaičių '-', '.' ir '_'"
+  "Username must be at least 3 characters long": "Naudotojo vardas privalo būti bent 3 ženklų ilgio"
+  "Username or Email": "Naudotojo vardas arba el. pašto adresas"
+  "Username/Email": "Naudotojo vardas / el. pašto adresas"
+  "Uses two-factor authentication": "Naudoja dvejų faktorių autentifikaciją"
+  "Using Jinja2": "Naudojama Junja2"
+  "Utilities": "Įrankiai"
+  "Valid characters are: A-Z, a-z, 0-9": "Galimi ženklai yra: A-Z, a-z, 0-9"
+  "Valid characters are: A-Z, a-z, 0-9, hyphen": "Galimi ženklai yra: A-Z, a-z, 0-9, brūkšnys"
+  "Variables": "Kintamieji"
+  "Verification code": "Verifikavimo kodas"
+  "Verify": "Verifikuoti"
+  "Verify your phone": "Verifikuokite savo telefoną"
+  "Version": "Versija"
+  "Version ": "Versija"
+  "View documentation": "Žiūrėti dokumentaciją"
+  "WARNING!  If you press Delete, the contents of the %s project will be permanently deleted.": "DĖMESIO! Jeigu paspausite Ištrinti, %s projekto turinys bus negrįžtamai ištrintas."
+  "Waiting": "Laukiama"
+  "Warning: a file by that name already exists.  If you save, you will overwrite it.": "Dėmesio: failas tokiu pavadinimu jau egzistuoja. Jeigu išsaugosite, jūs pakeisite jį."
+  "Warning: a package definition by that name already exists.  If you save, you will overwrite it.": "Dėmesio: paketo apibrėžtis tokiu pavadinimu jau egzistuoja. Jeigu išsaugosite, jūs pakeisite jį."
+  "We just sent you a text message with a verification code.  Enter the verification code to proceed.": "Mes ką tik išsiuntėme jums žinutę su verifikavimo kodu. Įrašykite verifikavimo kodą, jeigu pageidaujate tęsti."
+  "We were unable to submit your request.": "Mes negalėjome pateikti jūsų prašymo."
+  "Would you like to reconfigure two-factor authentication?": "Ar pageidaujate perkonfigūruoti dviejų faktorių autentifikaciją?"
+  "Yes": "Taip"
+  "You are not allowed to access this interview.": "Jums nesuteikta teisė prieiti prie šio interviu."
+  "You are not authorized to access": "Jūs nesate įgaliotas prieiti"
+  "You are now set up with two factor authentication.": "Jums dabar yra nustatyta dviejų faktorių autentifikacija."
+  "You are renaming the project called %s.": "Jūs pervadinate projektą, kurio pavadinimas %s."
+  "You can also follow this link: ": "Jūs taip pat galite paspausti šią nuorodą:"
+  "You can type link1 to visit the link": "Jūs galite įrašyti link1, norėdami aplankyti nuorodą"
+  "You can type link1, etc. to visit a link": "Jūs galite įrašyti link1, ir t.t., norėdami apliankyti nuorodą"
+  "You can type menu1 to select the menu item": "Jūs galite įrašyti menu1, norėdami pasirinkti meniu elementą"
+  "You can type menu1, etc. to select a menu item": "Jūs galite įrašyti menu1, ir t.t., norėdami pasirinkti meniu elementą"
+  "You can type question to read the question again.": "Jūs galite įrašyti klausimą, norėdami pakartotinai perskaityti klausimą."
+  "You can upload a file here": "Jūs galite įkelti failą čia"
+  "You cannot log in this way.": "Jūs negalite prisijungti tokiu būdu."
+  "You cannot log in until your e-mail address has been confirmed.": "Jūs negalite prisijungti tol, kol jūsų el. pašto adresas nebuvo patvirtintas."
+  "You cannot pull from GitHub and PyPI at the same time.  Please fill in one and leave the other blank.": "Jūs negalite kelti iš GitHub ir PyPI tuo pačiu metu."
+  "You cannot rename the default Playground project": "Jūs negalite pervadinti nustatytojo Playground projekto"
+  "You cannot take away your own admin privilege.": "Jūs negalite atimti sau suteiktos administratoriaus privilegijos."
+  "You cannot type more than %s characters.": "Jūs negalite įrašyti daugiau nei %s ženklų."
+  "You do not have permission to access '%(url)s'.": "Jūs neturite teisės prieiti '%(url)s'."
+  "You do not have permission to install this package.": "Jūs neturite teisės instaliuoti šio paketo." 
+  "You have made too many login attempts.": "Jūs per daug kartų bandėte prisijungti."
+  "You have registered successfully.": "Jūs užsiregistravote sėkmingai."
+  "You have signed in successfully.": "Jūs prisijungėte sėkmingai."
+  "You have signed out successfully.": "Jūs atsijungėte sėkmingai."
+  "You must attach a file.": "Jūs privalote pridėti failą."
+  "You must be signed in to access '%(url)s'.": "Jūs privalote būti prisijungę, kad prieitumėte '%(url)s'."
+  "You must confirm your email to access '%(url)s'.": "Jūs privalote patvirtinti savo el. pašto adresą, kad prieitumėte '%(url)s'."
+  "You must provide a file.": "Jūs privalote nurodyti failą."
+  "You must provide a language": "Jūs privalote nurodyti kalbą"
+  "You must provide an interview filename": "Jūs privalote nurodyti interviu failo pavadinimą"
+  "You must select an option.": "Jūs privalote pasirinkti parinktį."
+  "You must sign your name to continue.": "Jūs privalote pasirašyti norėdami tęsti."
+  "You must type at least %s characters.": "Jūs privalote įrašyti bent %s ženklus."
+  "You need to be logged in to access this interview.": "Jums reikia prisijungti, kad prieitumėte prie interviu."
+  "You need to enter a complete e-mail address.": "Jums reikia įrašyti pilną el. pašto adresą."
+  "You need to enter a date between %s and %s.": "Jums reikia įrašyti datą tarp %s ir %s."
+  "You need to enter a date on or after %s.": "Jums reikia įrašyti datą, kuri būtų %s arba po jos."
+  "You need to enter a date on or before %s.": "Jums reikia įrašyti datą, kuri būtų %s arba prieš ją."
+  "You need to enter a number that is at least %s.": "Jums reikia įrašyti skaičių, kuris yra bent %s."
+  "You need to enter a number that is at most %s.": "Jums reikia įrašyti skaičių, kuris yra ne didesnis nei %s."
+  "You need to enter a number.": "Jums reikia įrašyti skaičių."
+  "You need to enter a valid date and time.": "Jums reikia įrašyti tinkamą datą ir laiką."
+  "You need to enter a valid date.": "Jums reikia įrašyti tinkamą datą."
+  "You need to enter a valid time.": "Jums reikia įrašyti tinkamą laiką."
+  "You need to increment the version before publishing to PyPI.": "Jums reikia padidinti versiją prieš skalbiant PyPI."
+  "You need to log in before you can access": "Jums reikia prisijungti norėdami pasiekti"
+  "You need to log in with Auth0.": "Jums reikia prisijungti su Auth0."
+  "You need to log in with Azure.": "Jums reikia prisijungti su Azure."
+  "You need to log in with Facebook.": "Jums reikia prisijungti su Facebook."
+  "You need to log in with Google.": "Jums reikia prisijungti su Google."
+  "You need to log in with Twitter.": "Jums reikia prisijungti su Twitter."
+  "You need to select one or type in a new value.": "Jums reikia pasirinkti vieną arba įrašyti naują reikšmę."
+  "You need to select one.": "Jums reikia pasirinkti vieną."
+  "You need to supply a Git URL, upload a file, or supply the name of a package on PyPI.": "Jums reikia pateikti Git URL, įkelti failą, arba pateikti PYPI esančio paketo pavadinimą."
+  "You need to type in a name for the file": "Jums reikia įrašyti failo pavadinimą"
+  "You need to type in a name for the interview": "Jums reikia įrašyti interviu pavadinimą"
+  "Your GitHub integration has already been configured.": "Jūsų GitHub integracija jau sukonfiguruota."
+  "Your GitHub settings were saved.": "Jūsų GitHub nustatymai buvo išsaugoti."
+  "Your IP address is": "Jūsų IP adresas yra"
+  "Your Playground is connected to your Google Drive.": "Jūsų Playground yra susietas su GoogleDrive."
+  "Your Playground is connected to your OneDrive.": "Jūsų Playground yra susietas su jūsų OneDrive."
   ? "Your account already has two-factor authentication enabled.  Would you like to reconfigure or disable two-factor authentication?"
   : null
   "Your account has been disabled.": null
