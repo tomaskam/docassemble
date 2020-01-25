@@ -430,25 +430,23 @@
   "Sign in with your mobile phone": "Prisijunkite savo mobiliuoju telefonu"
   "Since you changed a Python module, the server needs to restart in order to load your module.": "Kadangi pakeitėte Phyton modulį, būtina perkrauti serverį, kad paleisti jūsų modulį."
   "Since you did not type \"delete my account\" I did not delete your account.": "Kadangi jūs neįrašėte \"ištrinti mano paskyrą"\, aš neištryniau jūsų paskyros."
-  
-  "Since you renamed a project, the server needs to restart in order to reload any modules.": null\, aš neištryniau jūsų paskyros."
-  
-  "Since you uploaded a Python module, the server needs to restart in order to load your module.": null
-  "Social ID": null
-  "Sorry, no help is available for this question.": null
-  "Sorry, only .py files can be uploaded here.  To upload other types of files, use other Folders.": null
-  "Sorry, only YAML files can be uploaded here.  To upload other types of files, use the Folders.": null
-  "Sorry, that package name does not exist in the playground": null
-  "Sorry, that package name is already in use by someone else": null
-  "Sorry, that package name,": null
-  "Source": null
-  "Source Files": null
-  "Source code for question": null
-  "Source files": null
-  "Special Page": null
-  "Special variable": null
-  "Starting a new interview.  To go back to your previous interview, go to My Interviews on the menu.": null
-  "Starting a new interview.  To go back to your previous interview, log in to see a list of your interviews.": null
+  "Since you renamed a project, the server needs to restart in order to reload any modules.": "Kadangi jūs pervadinote projektą, būtina perkrauti serverį, kad paleisti jūsų modulį."
+  "Since you uploaded a Python module, the server needs to restart in order to load your module.": "Kadangi jūs įkėlėte Phyton module, būtina perkrauti serverį, kad paleisti jūsų modulį."
+  "Social ID": "Socialinio draudimo ID"
+  "Sorry, no help is available for this question.": "Atsiprašome, pagalba šiam klausimui neprieinama."
+  "Sorry, only .py files can be uploaded here.  To upload other types of files, use other Folders.": "Atsiprašome, tik .py failai gali būti įkelti čia. Įkelti kitų rūšių failus, naudokite kitus aplankus."
+  "Sorry, only YAML files can be uploaded here.  To upload other types of files, use the Folders.": "Atsiprašome tik YAML failai gali būti įkelti čia. Įkelti kitų rūšių failus, naudokite kitus aplankus."
+  "Sorry, that package name does not exist in the playground": "Atsiprašome, tokio paketo pavadinimas neegzistuoja playground"
+  "Sorry, that package name is already in use by someone else": "Atsiprašome, tokio paketo pavadinimas jau yra naudojamas kažkieno kito"
+  "Sorry, that package name,": "Atsiprašome, toks paketo pavadinimas,"
+  "Source": "Šaltinis"
+  "Source Files": "Šaltinio Failai"
+  "Source code for question": "Klausimo išeities kodas"
+  "Source files": "Šaltinio failai"
+  "Special Page": "Specialusis puslapis"
+  "Special variable": "Specialusis kintamasis"
+  "Starting a new interview.  To go back to your previous interview, go to My Interviews on the menu.": "Pradedamas naujas interviu. Norėdami grįžti atgal į ankstesnį interviu, meniu paspauskite Mano interviu."
+  "Starting a new interview.  To go back to your previous interview, log in to see a list of your interviews.": "Pradedamas naujas interviu. Norėdami grįžti atgal į ankstesnį interviu, prisijunkite, kad matytumėte interviu sąrašą."
   "Static Files": null
   "Static files": null
   "Stop Controlling": null
