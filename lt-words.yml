@@ -508,7 +508,7 @@
   "This Email is already in use. Please try another one.": "Šis el. pašto adresas jau naudojamas. Prašome pabandyti kitą."
   "This Username is already in use. Please try another one.": "Šis naudotojo vardas jau naudojamas. Prašome pabandyti kitą."
   "This account uses two-factor authentication.": "Ši paskyra naudoja dviejų faktorių authentifikavimą."
-  "This field is required.": "Šis laukas reikalingas."
+  "This field is required.": "Šis laukas yra privalomas."
   "This image file does not exist": "Šis paveikslėlio failas neegzistuoja"
   "This package is": "Šis paketas yra"
   "This package is not yet published on PyPI.": "Šis paketas kol kas nėra paskelbtas PyPI."
